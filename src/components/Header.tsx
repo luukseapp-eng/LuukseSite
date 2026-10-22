@@ -35,9 +35,9 @@ export default function Header() {
 
         <nav className={styles.desktopNav} aria-label="Principal">
           {nav.map((item) => (
-            <a key={item.href} href={item.href} className={styles.navLink}>
+            <Link key={item.href} to={item.href} className={styles.navLink}>
               {item.label}
-            </a>
+            </Link>
           ))}
         </nav>
 
@@ -60,9 +60,9 @@ export default function Header() {
       <div className={`${styles.mobile} ${open ? styles.mobileOpen : ''}`} aria-hidden={!open}>
         <nav className={styles.mobileNav} aria-label="Mobile">
           {nav.map((item) => (
-            <a key={item.href} href={item.href} className={styles.mobileLink} onClick={() => setOpen(false)}>
+            <Link key={item.href} to={item.href} className={styles.mobileLink} onClick={() => setOpen(false)}>
               {item.label}
-            </a>
+            </Link>
           ))}
           <NavLink to="/sobre" className={styles.mobileLink} onClick={() => setOpen(false)}>
             Sobre
