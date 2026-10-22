@@ -1,0 +1,22 @@
+.banner{position:fixed;left:1rem;right:1rem;bottom:1rem;z-index:1000;max-width:960px;margin:0 auto;background:var(--black-elevated,#141417);border:1px solid var(--graphite-line,#2a2a2e);border-radius:14px;padding:1.25rem 1.5rem;display:flex;gap:1.25rem;align-items:center;box-shadow:0 18px 50px rgba(0,0,0,.5)}
+.banner p{font-size:.9rem;color:var(--warm-muted,#c9c3b8);line-height:1.55;margin:0}
+.banner a,.lead a{color:var(--champagne-soft,#d8c39a);text-decoration:underline}
+.actions{display:flex;gap:.6rem;flex-wrap:wrap;justify-content:flex-end;flex-shrink:0}
+.actions button{font:inherit;font-size:.85rem;font-weight:600;padding:.7rem 1.1rem;border-radius:999px;cursor:pointer;white-space:nowrap}
+.primary{background:var(--champagne-soft,#d8c39a);color:#0B0B0D;border:1px solid transparent}
+.ghost{background:transparent;color:var(--warm-white,#f4efe6);border:1px solid var(--graphite-line,#3a3a3f)}
+.ghost:hover{border-color:var(--champagne-soft,#d8c39a)}
+.overlay{position:fixed;inset:0;z-index:1001;background:rgba(0,0,0,.65);display:flex;align-items:center;justify-content:center;padding:1rem}
+.modal{background:var(--black-elevated,#141417);border:1px solid var(--graphite-line,#2a2a2e);border-radius:16px;padding:1.75rem;max-width:560px;width:100%;max-height:90vh;overflow:auto}
+.modal h2{font-family:var(--font-display);font-size:1.4rem;color:var(--warm-white,#f4efe6);margin:0 0 .5rem}
+.lead{font-size:.9rem;color:var(--warm-muted,#c9c3b8);margin-bottom:1.25rem}
+.row{display:flex;justify-content:space-between;gap:1rem;align-items:center;padding:1rem 0;border-top:1px solid var(--graphite-line,#2a2a2e);cursor:pointer}
+.row strong{display:block;color:var(--warm-white,#f4efe6);font-size:.95rem}
+.row small{display:block;color:var(--warm-dim,#9a948a);font-size:.82rem;margin-top:.25rem}
+.modal .actions{margin-top:1.25rem;justify-content:flex-end}
+.toggle{appearance:none;width:44px;height:24px;border-radius:999px;background:#3a3a3f;position:relative;flex-shrink:0;cursor:pointer;transition:background .2s}
+.toggle::after{content:'';position:absolute;top:3px;left:3px;width:18px;height:18px;border-radius:50%;background:#fff;transition:transform .2s}
+.toggle:checked{background:var(--champagne-soft,#d8c39a)}
+.toggle:checked::after{transform:translateX(20px)}
+.toggle:disabled{opacity:.6;cursor:not-allowed}
+@media (max-width:760px){.banner{flex-direction:column;align-items:stretch;padding:1rem}.actions{justify-content:stretch}.actions button{flex:1}}

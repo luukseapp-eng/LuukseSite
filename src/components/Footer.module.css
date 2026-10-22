@@ -69,3 +69,6 @@
     gap: 2rem;
   }
 }
+
+.linkButton{background:none;border:0;padding:0;font:inherit;font-size:.9rem;color:var(--warm-muted);text-align:left;cursor:pointer;transition:color .25s var(--ease)}
+.linkButton:hover{color:var(--champagne-soft)}

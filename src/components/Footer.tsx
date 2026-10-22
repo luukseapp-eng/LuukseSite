@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom'
+import { openCookiePreferences } from '../lib/consent'
 import styles from './Footer.module.css'
 
 export default function Footer() {
@@ -30,9 +31,12 @@ export default function Footer() {
 
         <div className={styles.col}>
           <h3>Legal</h3>
-          <Link to="/termos">Termos</Link>
-          <Link to="/privacidade">Privacidade</Link>
+          <Link to="/termos">Termos de Uso</Link>
+          <Link to="/privacidade">Política de Privacidade</Link>
           <Link to="/cookies">Cookies</Link>
+          <button type="button" className={styles.linkButton} onClick={openCookiePreferences}>
+            Preferências de cookies
+          </button>
         </div>
       </div>
 
