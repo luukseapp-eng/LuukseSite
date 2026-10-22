@@ -1,4 +1,6 @@
 import Hero from '../components/sections/Hero'
+import Diferenciais from '../components/sections/Diferenciais'
+import PorQue from '../components/sections/PorQue'
 import Experiencia from '../components/sections/Experiencia'
 import ComoUsar from '../components/sections/ComoUsar'
 import Planos from '../components/sections/Planos'
@@ -29,7 +31,9 @@ export default function Home() {
   return (
     <>
       <Hero />
+      <Diferenciais />
       <Experiencia />
+      <PorQue />
       <ComoUsar />
       <Planos />
       <Padrao />

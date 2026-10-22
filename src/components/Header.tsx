@@ -29,7 +29,7 @@ export default function Header() {
   return (
     <header className={`${styles.header} ${scrolled ? styles.scrolled : ''}`}>
       <div className={`container ${styles.inner}`}>
-        <Link to="/" className={styles.logo} aria-label="LUUKSE — início">
+        <Link to="/" className={styles.logo} aria-label="LUUKSE, início">
           LUUKSE
         </Link>
 

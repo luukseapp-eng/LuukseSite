@@ -6,7 +6,7 @@ const panels = [
     id: 'now',
     title: 'LUUKSE NOW',
     subtitle: 'Quando o momento pede presença imediata',
-    text: 'Solicite quando precisar. Um padrão elevado de apresentação, pontualidade e cuidado — sem abrir mão da discrição.',
+    text: 'Solicite quando precisar. Um padrão elevado de apresentação, pontualidade e cuidado, sem abrir mão da discrição.',
   },
   {
     id: 'dedicado',
@@ -18,13 +18,13 @@ const panels = [
     id: 'preferido',
     title: 'MOTORISTA PREFERIDO',
     subtitle: 'Continuidade que vira confiança',
-    text: 'Escolha e mantenha quem já entende suas preferências. Relação construída no detalhe — e no respeito ao seu tempo.',
+    text: 'Escolha e mantenha quem já entende suas preferências. Relação construída no detalhe e no respeito ao seu tempo.',
   },
   {
     id: 'experiencia',
     title: 'EXPERIÊNCIA LUUKSE',
     subtitle: 'O protocolo completo',
-    text: 'Do acolhimento ao desembarque: água, aroma, silêncio ou conversa, rota e presença — sob o padrão da marca.',
+    text: 'Do acolhimento ao desembarque: água, aroma, silêncio ou conversa, rota e presença. Tudo sob o padrão da marca.',
   },
 ]
 
@@ -37,7 +37,7 @@ export default function ComoUsar() {
         <div className={`${styles.intro} reveal`}>
           <span className="section-label">Como usar</span>
           <h2>Quatro formas de viver a LUUKSE.</h2>
-          <p>Escolha o formato que se encaixa no seu momento — todos sob o mesmo padrão de excelência.</p>
+          <p>Escolha o formato que se encaixa no seu momento. Todos seguem o mesmo padrão de cuidado.</p>
         </div>
 
         <div className={styles.panels}>

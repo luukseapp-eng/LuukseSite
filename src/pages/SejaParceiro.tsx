@@ -19,7 +19,7 @@ export default function SejaParceiro() {
       <h2>Para quem</h2>
       <p>
         Hotéis, condomínios, empresas, eventos e operações que desejam oferecer mobilidade privada
-        sob o padrão LUUKSE — com discrição, pontualidade e presença alinhada à imagem da sua marca.
+        sob o padrão LUUKSE, com discrição, pontualidade e presença alinhada à imagem da sua marca.
       </p>
       <h2>O que uma parceria pode incluir</h2>
       <ul>

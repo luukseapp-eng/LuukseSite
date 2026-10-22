@@ -14,7 +14,7 @@ export default function Partner() {
             <h2>Sua operação. Uma nova experiência.</h2>
             <p>
               Hotéis, condomínios, empresas e operações que desejam oferecer mobilidade privada sob o
-              padrão LUUKSE. Uma parceria que eleva a experiência de quem chega — e de quem parte.
+              padrão LUUKSE. Uma parceria que eleva a experiência de quem chega e de quem parte.
             </p>
             <Link to="/seja-parceiro" className="btn btn-primary">
               Seja parceiro

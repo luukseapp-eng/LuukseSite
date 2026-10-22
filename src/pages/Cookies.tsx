@@ -14,13 +14,13 @@ export default function Cookies() {
       <h2>Como usamos</h2>
       <ul>
         <li>
-          <strong>Essenciais</strong> — necessários ao funcionamento básico do site e à segurança
+          <strong>Essenciais</strong>: necessários ao funcionamento básico do site e à segurança
         </li>
         <li>
-          <strong>Preferências</strong> — lembram escolhas como idioma ou configurações de interface
+          <strong>Preferências</strong>: lembram escolhas como idioma ou configurações de interface
         </li>
         <li>
-          <strong>Analíticos</strong> — ajudam a compreender tráfego e desempenho de forma agregada
+          <strong>Analíticos</strong>: ajudam a compreender tráfego e desempenho de forma agregada
         </li>
       </ul>
       <h2>Gestão</h2>

@@ -25,12 +25,12 @@ export default function Padrao() {
           </h2>
           <p>
             Na LUUKSE, discrição orienta postura, conversa, vestimenta e presença. Não é um diferencial
-            anunciado — é a forma como cada trajeto acontece.
+            anunciado. É a forma como cada trajeto acontece.
           </p>
           <ul>
             <li>Presença profissional sem ostentação</li>
             <li>Confidencialidade como regra, não como favor</li>
-            <li>Detalhes alinhados ao que você espera — e ao que não precisa pedir</li>
+            <li>Detalhes alinhados ao que você espera e ao que não precisa pedir</li>
           </ul>
         </div>
       </div>
