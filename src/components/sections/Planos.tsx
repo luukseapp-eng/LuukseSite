@@ -6,7 +6,7 @@ const plans = [
   {
     name: 'PASS',
     tag: 'Sem assinatura',
-    desc: 'Acesso à experiência LUUKSE quando você quiser — sem compromisso mensal.',
+    desc: 'Acesso à experiência LUUKSE quando você quiser, sem compromisso mensal.',
     points: ['Uso sob demanda', 'Padrão completo de atendimento', 'Ideal para começar'],
   },
   {
@@ -19,7 +19,7 @@ const plans = [
   {
     name: 'FAMÍLIA',
     tag: 'Para o núcleo',
-    desc: 'Mais de um perfil sob o mesmo cuidado — com discrição e organização.',
+    desc: 'Mais de um perfil sob o mesmo cuidado, com discrição e organização.',
     points: ['Múltiplos perfis', 'Gestão simplificada', 'Mesmo padrão LUUKSE'],
   },
   {
@@ -40,7 +40,7 @@ export default function Planos() {
           <span className="section-label">Planos</span>
           <h2>Escolha como pertencer.</h2>
           <p>
-            Preços exclusivos conforme o perfil e a intensidade de uso. Sem fórmulas genéricas —
+            Preços exclusivos conforme o perfil e a intensidade de uso. Sem fórmulas genéricas:
             uma conversa sobre o que faz sentido para você.
           </p>
         </div>
@@ -67,7 +67,7 @@ export default function Planos() {
         </div>
 
         <p className={`${styles.note} reveal`}>
-          Preços exclusivos — apresentados sob consulta, de acordo com o plano e a região.
+          Preços exclusivos, apresentados sob consulta, de acordo com o plano e a região.
         </p>
       </div>
     </section>

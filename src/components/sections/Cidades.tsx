@@ -11,7 +11,7 @@ export default function Cidades() {
           <span className="section-label">Presença</span>
           <h2>A LUUKSE está construindo sua presença.</h2>
           <p>
-            Expansão cuidadosa, alinhada aos critérios da marca — qualidade de operação, padrão de
+            Expansão cuidadosa, alinhada aos critérios da marca: qualidade de operação, padrão de
             atendimento e capacidade de sustentar a experiência que prometemos.
           </p>
           <p className={styles.soft}>

@@ -4,7 +4,7 @@ import styles from './Experiencia.module.css'
 const pillars = [
   {
     title: 'Conforto',
-    text: 'Cabine silenciosa, clima ajustado e um ritmo que respeita o seu dia — sem pressa desnecessária.',
+    text: 'Cabine silenciosa, clima ajustado e um ritmo que respeita o seu dia, sem pressa desnecessária.',
   },
   {
     title: 'Discrição',
@@ -12,7 +12,7 @@ const pillars = [
   },
   {
     title: 'Atendimento',
-    text: 'Detalhes que antecipam necessidades: água, aroma, silêncio ou conversa — conforme você preferir.',
+    text: 'Detalhes que antecipam necessidades: água, aroma, silêncio ou conversa, conforme você preferir.',
   },
   {
     title: 'Veículo',
@@ -35,7 +35,7 @@ export default function Experiencia() {
           <span className="section-label">A experiência</span>
           <h2>Mais do que chegar.</h2>
           <p>
-            A LUUKSE foi pensada para estender a sensação do seu tempo privado — do momento em que a porta se abre
+            A LUUKSE foi pensada para estender a sensação do seu tempo privado, do momento em que a porta se abre
             até o destino. Personalização real: preferências, ritmo e presença sob medida.
           </p>
         </div>

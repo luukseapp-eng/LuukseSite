@@ -22,12 +22,12 @@ export default function Hero() {
       <div className={`container ${styles.content}`}>
         <p className={`${styles.kicker} reveal visible`}>Mobilidade privada</p>
         <h1 className="reveal visible reveal-delay-1">
-          Seu tempo
+          Motorista particular,
           <br />
-          merece mais.
+          no seu ritmo.
         </h1>
         <p className={`${styles.sub} reveal visible reveal-delay-2`}>
-          Mobilidade privada para quem valoriza tempo, conforto, discrição e excelência.
+          Veículos selecionados, motoristas formados pela Academia LUUKSE e um trajeto ajustado às suas preferências: rota, clima, silêncio ou conversa.
         </p>
         <div className={`${styles.actions} reveal visible reveal-delay-3`}>
           <Link to="/contato" className="btn btn-primary">

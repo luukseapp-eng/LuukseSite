@@ -4,7 +4,7 @@ import styles from './Excelencia.module.css'
 const badges = [
   {
     title: 'Mais Favoritado',
-    text: 'Reconhecimento de quem consistentemente é escolhido de novo — pela experiência, não pelo volume.',
+    text: 'Reconhecimento de quem consistentemente é escolhido de novo pela experiência, não pelo volume.',
   },
   {
     title: 'Excelência em Atendimento',
@@ -12,7 +12,7 @@ const badges = [
   },
   {
     title: 'Mestre da Pontualidade',
-    text: 'Respeito ao tempo do passageiro como compromisso absoluto — do encontro ao desembarque.',
+    text: 'Respeito ao tempo do passageiro como compromisso, do encontro ao desembarque.',
   },
   {
     title: 'Fidelidade',
@@ -31,7 +31,7 @@ export default function Excelencia() {
           <h2>Reconhecimento, não ranking.</h2>
           <p>
             O Programa Excelência celebra quem sustenta o padrão LUUKSE. Distinções que reconhecem
-            conduta e consistência — sem transformar o cuidado em competição.
+            conduta e consistência, sem transformar o cuidado em competição.
           </p>
         </div>
 

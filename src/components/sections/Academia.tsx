@@ -14,7 +14,7 @@ export default function Academia() {
             <h2>Excelência não acontece por acaso.</h2>
             <p>
               A Academia LUUKSE forma e acompanha quem representa a marca. Protocolo de presença,
-              atendimento, pontualidade e discrição — treinados, avaliados e refinados com o tempo.
+              atendimento, pontualidade e discrição, treinados, avaliados e refinados com o tempo.
             </p>
             <p>
               Não se trata apenas de dirigir. Trata-se de sustentar um padrão que o passageiro sente
