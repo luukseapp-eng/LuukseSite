@@ -28,9 +28,9 @@ export default function Motoristas() {
             <Link to="/seja-motorista" className="btn btn-primary">
               Quero ser motorista
             </Link>
-            <a href="#academia" className="btn btn-ghost">
+            <Link to="/#academia" className="btn btn-ghost">
               Ver a Academia
-            </a>
+            </Link>
           </div>
         </div>
       </div>
