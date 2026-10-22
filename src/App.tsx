@@ -2,6 +2,7 @@ import { BrowserRouter, Routes, Route, useLocation } from 'react-router-dom'
 import { useEffect } from 'react'
 import Header from './components/Header'
 import Footer from './components/Footer'
+import CookieConsent from './components/CookieConsent'
 import Home from './pages/Home'
 import Sobre from './pages/Sobre'
 import Termos from './pages/Termos'
@@ -37,6 +38,7 @@ function AppRoutes() {
         <Route path="/seja-parceiro" element={<SejaParceiro />} />
       </Routes>
       <Footer />
+      <CookieConsent />
     </>
   )
 }
