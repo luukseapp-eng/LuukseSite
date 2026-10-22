@@ -1,0 +1,28 @@
+.section {
+  padding: clamp(5rem, 12vw, 7rem) 0;
+  background: var(--black-elevated);
+}
+
+.box {
+  max-width: 40rem;
+  margin: 0 auto;
+  text-align: center;
+  padding: 3rem 1.5rem;
+  border-top: 1px solid var(--graphite-line);
+  border-bottom: 1px solid var(--graphite-line);
+}
+
+.box h2 {
+  font-size: clamp(1.85rem, 4vw, 2.75rem);
+  margin-bottom: 1.15rem;
+}
+
+.box > p {
+  font-size: 1.05rem;
+}
+
+.soft {
+  margin-top: 1.25rem !important;
+  font-size: 0.95rem !important;
+  color: var(--warm-dim) !important;
+}

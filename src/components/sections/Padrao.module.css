@@ -1,0 +1,77 @@
+.section {
+  position: relative;
+  min-height: min(88vh, 760px);
+  display: flex;
+  align-items: center;
+  padding: clamp(5rem, 10vw, 7rem) 0;
+  overflow: hidden;
+}
+
+.media {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+}
+
+.parallax {
+  position: absolute;
+  inset: -10% 0;
+  will-change: transform;
+}
+
+.parallax img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 40%;
+}
+
+.veil {
+  position: absolute;
+  inset: 0;
+  background:
+    linear-gradient(90deg, rgba(11, 11, 13, 0.92) 0%, rgba(11, 11, 13, 0.55) 48%, rgba(11, 11, 13, 0.35) 100%),
+    linear-gradient(180deg, rgba(11, 11, 13, 0.4) 0%, transparent 30%, rgba(11, 11, 13, 0.7) 100%);
+}
+
+.content {
+  position: relative;
+  z-index: 1;
+}
+
+.card {
+  max-width: 34rem;
+}
+
+.card h2 {
+  font-size: clamp(2.1rem, 5vw, 3.25rem);
+  margin-bottom: 1.25rem;
+}
+
+.card > p {
+  font-size: 1.05rem;
+  margin-bottom: 1.75rem;
+}
+
+.card ul {
+  display: flex;
+  flex-direction: column;
+  gap: 0.85rem;
+}
+
+.card li {
+  position: relative;
+  padding-left: 1.15rem;
+  color: var(--warm-muted);
+  font-size: 0.95rem;
+}
+
+.card li::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0.65em;
+  width: 8px;
+  height: 1px;
+  background: var(--champagne);
+}

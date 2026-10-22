@@ -1,0 +1,68 @@
+.section {
+  padding: clamp(5rem, 12vw, 8rem) 0;
+  background: var(--black);
+}
+
+.layout {
+  display: grid;
+  gap: 2.5rem;
+  align-items: center;
+}
+
+.copy {
+  max-width: 34rem;
+}
+
+.copy h2 {
+  font-size: clamp(2rem, 4.5vw, 3.1rem);
+  margin-bottom: 1.25rem;
+}
+
+.copy p {
+  margin-bottom: 1rem;
+  font-size: 1.02rem;
+}
+
+.copy .btn {
+  margin-top: 1.5rem;
+  width: auto;
+}
+
+.visual {
+  position: relative;
+  aspect-ratio: 4 / 5;
+  max-height: 560px;
+  overflow: hidden;
+}
+
+.visual img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 20%;
+  filter: brightness(0.85);
+}
+
+.frame {
+  position: absolute;
+  inset: 1rem;
+  border: 1px solid rgba(201, 162, 39, 0.35);
+  pointer-events: none;
+}
+
+@media (min-width: 900px) {
+  .layout {
+    grid-template-columns: 1fr 1fr;
+    gap: 4rem;
+  }
+
+  .visual {
+    aspect-ratio: 3 / 4;
+  }
+}
+
+@media (max-width: 639px) {
+  .copy .btn {
+    width: 100%;
+  }
+}

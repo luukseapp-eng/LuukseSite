@@ -1,0 +1,79 @@
+.section {
+  padding: clamp(5rem, 12vw, 8rem) 0;
+  background: var(--black);
+}
+
+.intro {
+  max-width: 36rem;
+  margin-bottom: 3rem;
+}
+
+.intro h2 {
+  font-size: clamp(2rem, 4.5vw, 3.1rem);
+  margin-bottom: 1rem;
+}
+
+.panels {
+  display: grid;
+  gap: 1rem;
+}
+
+.panel {
+  position: relative;
+  padding: 2.25rem 1.75rem;
+  background: var(--graphite);
+  border: 1px solid var(--graphite-line);
+  min-height: 240px;
+  display: flex;
+  flex-direction: column;
+  transition: border-color 0.4s var(--ease), background 0.4s var(--ease);
+}
+
+.panel:hover {
+  border-color: rgba(201, 162, 39, 0.32);
+  background: var(--graphite-soft);
+}
+
+.index {
+  font-family: var(--font-display);
+  font-size: 0.95rem;
+  color: var(--champagne);
+  letter-spacing: 0.08em;
+  margin-bottom: 1.5rem;
+}
+
+.panel h3 {
+  font-family: var(--font-sans);
+  font-size: clamp(1.05rem, 2vw, 1.2rem);
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  margin-bottom: 0.65rem;
+}
+
+.subtitle {
+  font-size: 0.95rem;
+  color: var(--warm-white);
+  margin-bottom: 1rem;
+}
+
+.text {
+  font-size: 0.92rem;
+  margin-top: auto;
+}
+
+@media (min-width: 720px) {
+  .panels {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (min-width: 1100px) {
+  .panels {
+    grid-template-columns: repeat(4, 1fr);
+  }
+
+  .panel {
+    min-height: 320px;
+    padding: 2.5rem 1.65rem;
+  }
+}
