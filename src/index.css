@@ -221,6 +221,35 @@ p {
   background: var(--champagne);
 }
 
+.page-shell li ul {
+  margin: 0.65rem 0 0;
+}
+
+.page-shell .table-wrap {
+  overflow-x: auto;
+  margin: 1rem 0 1.5rem;
+}
+
+.page-shell table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.92rem;
+  color: var(--warm-muted);
+}
+
+.page-shell th,
+.page-shell td {
+  text-align: left;
+  vertical-align: top;
+  padding: 0.6rem 0.75rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.page-shell th {
+  color: var(--warm-white);
+  font-weight: 500;
+}
+
 .hairline {
   height: 1px;
   background: var(--graphite-line);
