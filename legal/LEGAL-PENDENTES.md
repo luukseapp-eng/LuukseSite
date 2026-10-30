@@ -8,8 +8,9 @@ Regerar (pandoc, gfm -> html): remover as marcas `[A CONFIRMAR ...]` e converter
 `legal/privacidade.md` (sem o cabeçalho/título) para `src/content/termos.html` e `privacidade.html`.
 
 Esta branch é local e NÃO foi publicada. Publicar exige ok da Angel e validação final da Helena.
-- [A CONFIRMAR COM HELENA: confirmar se o exemplo da tarifa pode ficar sem os valores em reais da parcela do motorista.]
-- [A CONFIRMAR COM HELENA: se a LUUKSE quiser mostrar um exemplo numérico completo, usar valores genéricos e não a divisão vigente.]
+- [A CONFIRMAR COM HELENA: definir quem suporta a tarifa da cobrança perante o motorista, sem revelar percentuais.]
+- [A CONFIRMAR COM HELENA: definir se e como as alterações da política de repasse são comunicadas ao motorista e a partir de quando valem.]
+- [A CONFIRMAR COM HELENA: revisar a redação fiscal desta cláusula e da 6.8 sem os termos "comissão" e "percentual", preservando a segregação de valores de terceiros.]
 - [A CONFIRMAR COM HELENA: manter 01/01/2027 somente se o Programa estiver ativo no 4º trimestre de 2026 e se os critérios do ciclo em curso já estiverem divulgados no aplicativo na data da publicação.]
 - [A CONFIRMAR COM HELENA: prazo objetivo sugerido, em lugar de “prazo razoável”.]
 - [A CONFIRMAR COM ANGEL E HELENA: prazos de 30 e 15 dias sugeridos]

@@ -134,7 +134,7 @@ Como a LUUKSE trata dados pessoais com respeito, segurança e transparência.
 
 | Fase | Dados do cliente mostrados ao motorista |
 |----|----|
-| Antes do aceite (oferta) | Local aproximado de embarque, destino, distância e valor estimado da parte do motorista, nota média do cliente. Sem nome nem telefone. |
+| Antes do aceite (oferta) | Local aproximado de embarque, destino, distância e valor estimado da remuneração do motorista, nota média do cliente. Sem nome nem telefone. |
 | Depois do aceite e durante a viagem | Primeiro nome, foto (se o cliente tiver), local exato de embarque, destino, observações da viagem; contato por mensagem pelo app, sem mostrar o número de telefone real. As ligações pelo app só serão ativadas quando forem feitas por número intermediário ou chamada pela internet, de modo que nenhum dos dois veja o número real do outro; esse é um requisito para ativar a função. |
 | Depois da viagem | Primeiro nome, data, trajeto e valor, no histórico do motorista. A localização do cliente deixa de ser compartilhada ao fim da viagem. |
 
