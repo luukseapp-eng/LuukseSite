@@ -8,11 +8,6 @@ Regerar (pandoc, gfm -> html): remover as marcas `[A CONFIRMAR ...]` e converter
 `legal/privacidade.md` (sem o cabeçalho/título) para `src/content/termos.html` e `privacidade.html`.
 
 Esta branch é local e NÃO foi publicada. Publicar exige ok da Angel e validação final da Helena.
-- [A CONFIRMAR ...]
-- [A CONFIRMAR ...]
-- [A CONFIRMAR COM HELENA: bases legais sugeridas]
-- [A CONFIRMAR COM HELENA: prazo sugerido]
-- [A CONFIRMAR COM FINANCEIRO/HELENA: harmonizar com a cláusula 7.1 (taxa “para o motorista”) e definir se a divisão 68%/32% vale para a taxa percentual do Anexo A.7.]
 - [A CONFIRMAR COM HELENA: manter 01/01/2027 somente se o Programa estiver ativo no 4º trimestre de 2026 e se os critérios do ciclo em curso já estiverem divulgados no aplicativo na data da publicação.]
 - [A CONFIRMAR COM HELENA: prazo objetivo sugerido, em lugar de “prazo razoável”.]
 - [A CONFIRMAR COM ANGEL E HELENA: prazos de 30 e 15 dias sugeridos]
@@ -21,3 +16,5 @@ Esta branch é local e NÃO foi publicada. Publicar exige ok da Angel e validaç
 - [A CONFIRMAR COM HELENA: critérios de cálculo do prejuízo, prazos de pagamento e contestação, culpa concorrente e multas sem decisão definitiva.]
 - [A CONFIRMAR COM HELENA: se “documento pendente” deve ser informado à frota em todos os casos.]
 - [A CONFIRMAR COM ANGEL E O FINANCEIRO: base de incidência do percentual.]
+- [A CONFIRMAR COM HELENA: bases legais sugeridas]
+- [A CONFIRMAR COM HELENA: prazo sugerido]
