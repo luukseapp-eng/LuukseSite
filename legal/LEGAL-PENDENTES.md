@@ -7,7 +7,7 @@ Antes de fazer merge/publicar, resolver cada marca abaixo e regenerar o HTML.
 Regerar (pandoc, gfm -> html): remover as marcas `[A CONFIRMAR ...]` e converter `legal/termos.md` e
 `legal/privacidade.md` (sem o cabeçalho/título) para `src/content/termos.html` e `privacidade.html`.
 
-Esta branch é local e NÃO foi publicada. Publicar exige ok da Angel e validação final da Helena.
+Publicado em 30/10/2026 com ok da Angel. As marcas abaixo NÃO aparecem nas páginas públicas (o HTML usa o texto sugerido). Helena ainda deve validar cada item; ao resolver, ajustar o texto e regenerar o HTML.
 - [A CONFIRMAR COM HELENA: definir quem suporta a tarifa da cobrança perante o motorista, sem revelar percentuais.]
 - [A CONFIRMAR COM HELENA: definir se e como as alterações da política de repasse são comunicadas ao motorista e a partir de quando valem.]
 - [A CONFIRMAR COM HELENA: revisar a redação fiscal desta cláusula e da 6.8 sem os termos "comissão" e "percentual", preservando a segregação de valores de terceiros.]

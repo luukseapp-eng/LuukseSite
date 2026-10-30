@@ -20,7 +20,6 @@ export default function Hero() {
       </div>
 
       <div className={`container ${styles.content}`}>
-        <p className={`${styles.kicker} reveal visible`}>Mobilidade privada</p>
         <h1 className="reveal visible reveal-delay-1">
           Motorista particular,
           <br />
