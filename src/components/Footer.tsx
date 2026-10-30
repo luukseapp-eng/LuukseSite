@@ -23,11 +23,6 @@ const socials: { key: keyof typeof SOCIAL; label: string; svg: ReactNode }[] = [
     svg: icon(<path d="M13.5 22v-8.2h2.8l.5-3.3h-3.3V8.4c0-.95.45-1.9 1.95-1.9H17V3.7S15.7 3.5 14.5 3.5c-2.5 0-4.1 1.5-4.1 4.2v2.5H7.6v3.3h2.8V22h3.1Z" />),
   },
   {
-    key: 'linkedin',
-    label: 'LinkedIn',
-    svg: icon(<path d="M4.5 3.5a2 2 0 1 1 0 4 2 2 0 0 1 0-4ZM3 9h3v12H3V9Zm5.5 0h2.9v1.7h.05c.4-.8 1.4-1.9 3.1-1.9 3.3 0 3.9 2.2 3.9 5V21h-3v-6.2c0-1.5 0-3.3-2-3.3s-2.3 1.6-2.3 3.2V21h-3V9Z" />),
-  },
-  {
     key: 'x',
     label: 'X',
     svg: icon(<path d="M17.8 3h3.1l-6.8 7.7L22 21h-6.2l-4.9-6.3L5.3 21H2.2l7.2-8.3L2 3h6.4l4.4 5.8L17.8 3Zm-1.1 16.2h1.7L7.4 4.7H5.6l11.1 14.5Z" />),

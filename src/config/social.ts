@@ -3,13 +3,11 @@
 // ("em breve") no rodapé. Nunca inventar @ ou número: só colocar o que a LUUKSE confirmar.
 //   instagram: 'https://instagram.com/<perfil>'
 //   facebook : 'https://facebook.com/<pagina>'
-//   linkedin : 'https://linkedin.com/company/<empresa>'
 //   x        : 'https://x.com/<perfil>'
 //   whatsapp : 'https://wa.me/55DDDNUMERO'   (somente dígitos, com 55 + DDD)
 export const SOCIAL = {
   instagram: '',
   facebook: '',
-  linkedin: '',
   x: '',
   whatsapp: '',
 } as const
