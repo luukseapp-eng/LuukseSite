@@ -28,7 +28,7 @@ jobs:
       - run: npm run build
       - run: |
           cp dist/index.html dist/404.html
-          for r in sobre termos privacidade cookies contato seja-motorista seja-parceiro; do mkdir -p dist/$r && cp dist/index.html dist/$r/index.html; done
+          for r in sobre termos privacidade cookies contato seja-motorista seja-parceiro excelencia; do mkdir -p dist/$r && cp dist/index.html dist/$r/index.html; done
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
