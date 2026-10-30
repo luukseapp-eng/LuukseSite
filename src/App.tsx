@@ -10,6 +10,7 @@ import Cookies from './pages/Cookies'
 import Contato from './pages/Contato'
 import SejaMotorista from './pages/SejaMotorista'
 import SejaParceiro from './pages/SejaParceiro'
+import Excelencia from './pages/Excelencia'
 
 function ScrollToTop() {
   const { pathname } = useLocation()
@@ -35,6 +36,7 @@ function AppRoutes() {
         <Route path="/contato" element={<Contato />} />
         <Route path="/seja-motorista" element={<SejaMotorista />} />
         <Route path="/seja-parceiro" element={<SejaParceiro />} />
+        <Route path="/excelencia" element={<Excelencia />} />
       </Routes>
       <Footer />
     </>

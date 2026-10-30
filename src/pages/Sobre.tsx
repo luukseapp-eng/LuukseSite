@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom'
 import PageShell from './PageShell'
 
 export default function Sobre() {
@@ -29,6 +30,10 @@ export default function Sobre() {
         Tudo o que construímos (planos, Academia, Programa Excelência e parcerias) existe para
         proteger a experiência de quem confia na LUUKSE. Expansão só acontece quando esse padrão
         pode ser entregue com consistência.
+      </p>
+      <p>
+        Conheça como reconhecemos os melhores motoristas no{' '}
+        <Link to="/excelencia">Programa Excelência LUUKSE</Link>.
       </p>
     </PageShell>
   )
