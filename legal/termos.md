@@ -1,0 +1,487 @@
+# Termos de Uso — LUUKSE
+
+**Versão 7.4 — Data: 30/10/2026 — Vigência: a partir da publicação na Plataforma**
+
+**Histórico de versões dos Termos de Uso**
+
+| Versão | Data | Principais mudanças |
+| :---- | :---- | :---- |
+| 1.0–3.0 | 2026 | Versões preliminares, em documento único de Termos de Uso e Política de Privacidade, com as regras gerais de uso da Plataforma, cadastro, viagens, pagamentos e tratamento de dados, antes da separação dos documentos na versão 5.0. |
+| 4.0 / 4.1 | 22/10/2026 | Asaas como gateway; divisão do valor da viagem entre motorista e LUUKSE; regra de cancelamento de 2 minutos; regras para motoristas. |
+| 5.0–5.2 | 22/10/2026 | Termos separados da Política de Privacidade; preços com exemplos; responsabilidades conforme CDC e Lei 12.587; decisões automatizadas; planos, notas fiscais e Asaas detalhados. 5.1: área BH e Região Metropolitana; seguro APP obrigatório; menores só acompanhados; espera de 5 min; agendadas com 2 h. 5.2: exemplo com cartão; taxa de cancelamento explicada; tarifas do motorista reescritas; modelo de notas fiscais provisório; chargeback com contestação prévia; arrependimento proporcional; canal de revisão humana. |
+| 6.0 | 22/10/2026 | Revisão final: texto do seguro obrigatório corrigido (DPVAT e SPVAT); referências cruzadas; regras de agendamento objetivas; pendências restritas a decisões da LUUKSE, da contabilidade e de fornecedores, cada uma com texto padrão seguro. |
+| 6.1 | 22/10/2026 | Sem antecipação ao motorista; troca de plano imediata com cobrança proporcional; seguro próprio em cotação. |
+| 6.2 | 22/10/2026 | Natureza dos valores (intermediação por conta de terceiros); nota corporativa só dos serviços faturados pela LUUKSE; nota mensal consolidada, com extrato por viagem. |
+| 6.3 | 22/10/2026 | Antecedentes: adotado critério rigoroso, pelo qual a existência de registro criminal leva à reprovação; contestação e revisão humana para corrigir erros (homônimo, certidão errônea). O critério foi detalhado na versão 6.5, com as exceções nela previstas. |
+| 6.4 | 22/10/2026 | Tarifa do Asaas explicada com exemplo numérico; retirada a menção a seguro próprio da LUUKSE (fica o APP do motorista); revisão editorial. |
+| 6.5 | 22/10/2026 | Antecedentes: qualquer registro criminal reprova, inclusive antigo, arquivado, prescrito ou com pena cumprida, havendo indício ou prova da conduta; exceções: absolvição, reconhecimento de inocência, inexistência do fato ou negativa de autoria, homônimo e certidão errônea; mantidas a justificativa, a contestação e a revisão humana. |
+| 6.6 | 22/10/2026 | Revisão jurídica: retirado o CPF da encarregada; área de operação condicionada à regulamentação local; regras sobre menores ajustadas ao ECA; tabelas de preço tituladas e exemplos completos; regra única de cliente ausente (5 minutos de tolerância e taxa de R\$ 7,00); decisões automatizadas classificadas (automatizada, apoio automatizado e humana); prazo de 15 dias como prazo operacional; foro ressalvado para motorista pessoa física ou MEI; evidência mínima de documentos vencidos. Critério de antecedentes inalterado. |
+| 6.7 | 22/10/2026 | Antecedentes: substituído o critério de reprovação por qualquer registro pela análise caso a caso (natureza, gravidade, atualidade e relação objetiva com os riscos do transporte de passageiros), com base em fontes oficiais ou verificáveis; não contam homônimo, erro cadastral, certidão incorreta, absolvição, reconhecimento de inocência, inexistência do fato ou negativa de autoria; manifestação, contestação e revisão humana antes da decisão final, ressalvadas medidas cautelares temporárias e fundamentadas; nenhuma reprovação definitiva por decisão exclusivamente automatizada; mantida a justificativa de segurança. |
+| 6.8 | 22/10/2026 | Antecedentes: separado o requisito documental legal (art. 11-B, IV, da Lei nº 12.587/2012) da análise interna de segurança; definidas as três situações (documento ausente ou inválido, registro não vinculado e registro confirmado e relevante); critérios detalhados da avaliação individual, com vedação de critérios discriminatórios; comunicação com fato, fonte, data e fundamentos; prazo de 10 dias corridos para manifestação; garantias da suspensão cautelar. Natureza dos valores: registro separado de cada componente financeiro. Termos passam a ter histórico de versões próprio. |
+| 6.9 | 22/10/2026 | Mantidas as tarifas ilustrativas do Asaas com a remissão à tabela do Asaas; prevalência da cláusula 7A.4 sobre a 5.3 nos casos de antecedentes; categorias de fatos restritas à conexão objetiva com os riscos do transporte, sem reprovação automática; limites da prorrogação do prazo de manifestação e da suspensão cautelar (responsável, critérios, reavaliação, revisão antecipada e registro); biometria facial condicionada à ativação; redação condicional dos controles de descarte; ressalva de guarda de documentos fiscais, contábeis, financeiros e probatórios. |
+| 6.10 | 22/10/2026 | Prazos de recebimento do Asaas (cláusula 7A.11): liberação por meio de pagamento, split com o mesmo prazo e antecipação automática como possibilidade futura, não adotada. |
+| 7.0 | 22/10/2026 | Justificativa da verificação de antecedentes (cláusula 7A.4) substituída por fundamento neutro: o transporte individual de passageiros, inclusive noturno e em situações de vulnerabilidade, exige medidas proporcionais contra violência, fraude, roubo, sequestro e riscos da condução; certidão de antecedentes: o motorista apresenta a exigida pela prefeitura do município onde atua, conforme a regulamentação local. Mantida sem alteração a cláusula 7A.11, pendente de aprovação. |
+| 7.1 | 22/10/2026 | Prazos de recebimento (cláusula 7A.11) aprovados com ajustes: prazos de liberação definidos como regras do Asaas, com o *split* no pagamento entre motorista, frota e LUUKSE; prazos e tarifas do Asaas sujeitos a alteração a qualquer tempo, com recomendação de consulta à página do Asaas; antecipação (7A.11.1) opcional para o motorista ou a frota, somente para cartão de crédito, com custo do Asaas descontado do valor de quem adere e exibido em reais antes da aceitação. |
+| 7.2 | 22/10/2026 | Antecedentes (cláusulas 7A.4.4 e 7A.4.5, com reflexo na 5.3): pedido de revisão único, analisado por uma pessoa da LUUKSE e respondido no menor prazo possível, com decisão final; retirados a prorrogação do prazo de 10 dias, a reavaliação da suspensão cautelar a cada 15 dias, os prazos de 2 e 5 dias úteis e a revisão antecipada por documento novo; suspensão cautelar até a decisão final. |
+| 7.3 | 23/10/2026 | Antecedentes (cláusula 7A.4.4, com reflexo na 5.3): prazo para manifestação e pedido de revisão de 60 dias corridos; Asaas (cláusula 7A.11): saque, tarifas de saque e demais regras da subconta seguem os termos do Asaas, sem responsabilidade da LUUKSE por alterações do Asaas após o repasse. |
+| 7.4 | 30/10/2026 | Nova Seção 7B (Programa Excelência LUUKSE, com garantias sobre a premiação) e nova Seção 7C (Empresas parceiras e frotas); cláusula 3.4 com remissão à Seção 7C; espera gratuita de 5 minutos e de 10 minutos nas viagens com necessidade de acessibilidade, com definições e compensação ao motorista (cláusulas 7.1, 7.3, A.3 e A.4); nova regra de cancelamento de viagens agendadas, em percentual do valor da viagem e por estágio, sem acumulação de taxas (Anexo A.7); viagens imediatas mantidas em R\$ 7,00. |
+
+## 1\. Quem somos e aceitação
+
+1.1. Estes Termos de Uso regulam o uso do site **luukseapp.com**, dos aplicativos LUUKSE para clientes, motoristas e parceiros e da assistente virtual **Luxia** (a “Plataforma”), mantidos por **LUUKSE INOVA SIMPLES (I.S.)**, CNPJ **69.693.114/0001-60** (“LUUKSE”), Rua Rio Grande do Norte, 1436, sala 813, Savassi, Belo Horizonte/MG, CEP 30130-138, telefone (31) 3181-4630, e-mail contato@luukseapp.com.
+
+1.2. **Aceite destacado.** No cadastro, você aceita estes Termos marcando uma caixa própria, que não vem pré-marcada. A Política de Privacidade é um documento separado, apresentado no mesmo momento para leitura. Consentimentos opcionais (comunicações de marketing, cookies não essenciais) são pedidos em campos separados, podem ser recusados sem impedir o uso da Plataforma e não fazem parte do aceite destes Termos. A data, a hora e a versão aceita ficam registradas.
+
+1.3. Estes Termos seguem a legislação brasileira, em especial o Código de Defesa do Consumidor (Lei nº 8.078/1990 — CDC), a Política Nacional de Mobilidade Urbana (Lei nº 12.587/2012), o Marco Civil da Internet (Lei nº 12.965/2014), o Decreto nº 7.962/2013 e a LGPD (Lei nº 13.709/2018). **Nenhuma cláusula destes Termos limita ou exclui direitos que a lei garante ao consumidor.**
+
+## 2\. O que a LUUKSE oferece
+
+2.1. A LUUKSE é uma plataforma tecnológica de mobilidade privada premium que intermedeia viagens entre clientes e motoristas parceiros independentes, na modalidade de transporte remunerado privado individual de passageiros (art. 4º, X, da Lei nº 12.587/2012).
+
+2.2. **Papéis e responsabilidades.** Os motoristas são parceiros independentes, sem vínculo empregatício, societário ou de representação com a LUUKSE, e respondem pela condução do veículo, pelas normas de trânsito e pela regularidade da própria documentação e do veículo. Isso **não exclui** a responsabilidade da LUUKSE perante o cliente prevista no CDC e na legislação de transporte, nem a responsabilidade por falhas na **seleção e verificação** de motoristas, na **intermediação**, nas **informações** prestadas na Plataforma e nas **medidas de segurança** que a LUUKSE oferece.
+
+2.3. **Onde operamos.** A LUUKSE atua em **Belo Horizonte/MG e na Região Metropolitana de Belo Horizonte**. O atendimento em cada município depende da regulamentação local vigente sobre o transporte remunerado privado individual de passageiros por aplicativo, de modo que a LUUKSE opera somente nos municípios em que essa modalidade seja permitida e em que estejam atendidas as exigências locais. A relação atualizada dos municípios atendidos é divulgada no aplicativo e no site luukseapp.com.
+
+2.4. Mudanças em funcionalidades, categorias ou áreas de atendimento são avisadas no aplicativo antes de valerem para novas contratações.
+
+## 3\. Cadastro e conta
+
+3.1. A conta exige informações verdadeiras, completas e atualizadas.
+
+3.2. A conta é pessoal e intransferível. Você cuida das suas credenciais e responde pelo uso da sua conta. Avise imediatamente qualquer uso não autorizado em **contato@luukseapp.com**; a partir do aviso, a LUUKSE bloqueia o acesso e analisa o caso.
+
+3.3. É proibido criar contas múltiplas, usar dados de terceiros sem autorização ou fornecer informações falsas.
+
+3.4. Motoristas e parceiros passam por cadastro, verificação e aprovação próprios (Seção 7A) e, no caso de empresas de frota e dos motoristas a elas vinculados, também pelas regras da Seção 7C. Depois de aprovado, o motorista precisa concluir o cadastro da subconta de recebimento no Asaas (cláusula 6.9) antes de aceitar viagens.
+
+## 4\. Menores de idade
+
+4.1. Somente pessoas com **18 anos ou mais** e plena capacidade civil podem ter conta. **Menores de 18 anos não podem ter conta própria.** O cadastro exige a declaração de maioridade e a data de nascimento, e a LUUKSE adota medidas razoáveis de verificação. Cadastros identificados como pertencentes a menores são bloqueados ou submetidos a verificação adicional.
+
+4.2. Um menor de 18 anos só pode viajar **acompanhado por um adulto titular de conta LUUKSE**, que pede a viagem, viaja junto e responde por ela. Devem ser observadas as regras do Estatuto da Criança e do Adolescente (Lei nº 8.069/1990), inclusive o art. 83, que trata da viagem de menores de 16 anos para fora da comarca onde residem, e cujas hipóteses de dispensa de autorização judicial dependem das circunstâncias de cada viagem. Cabe ao adulto responsável verificar, em cada caso, se a viagem exige autorização ou documento específico; a Plataforma não concede nem substitui essa autorização. Deve ser observado também o uso do dispositivo de retenção (cadeirinha, assento de elevação) exigido pelo Código de Trânsito Brasileiro para crianças, fornecido pelo responsável.
+
+4.3. O motorista pode recusar, sem penalidade, o embarque de menor desacompanhado ou de criança sem o dispositivo de retenção exigido.
+
+4.4. A LUUKSE não solicita cadastro próprio de menores e trata dados incidentais de menores (por exemplo, a informação de que um menor acompanha o titular) somente quando necessário à segurança da viagem (Política de Privacidade, Seção 13).
+
+## 5\. Uso das viagens e conduta
+
+5.1. Antes de confirmar a viagem, você vê a categoria, o preço (ou estimativa, com o critério de cálculo), a forma de pagamento, as taxas que podem ser cobradas e, após o aceite, os dados do motorista e do veículo.
+
+5.2. Usuários e motoristas devem agir com respeito e boa-fé. São proibidos assédio, discriminação, violência, danos ao veículo, uso para fins ilícitos e qualquer conduta que ponha pessoas em risco.
+
+5.3. **Suspensão e encerramento de contas.** A LUUKSE pode suspender ou encerrar uma conta nas situações listadas: (a) fraude ou tentativa de fraude em pagamentos; (b) informações ou documentos falsos; (c) violência, assédio ou discriminação comprovados ou com indícios graves; (d) risco imediato à segurança de pessoas; (e) para motoristas, documento vencido ou perda de requisito da Seção 7A; (f) violação reiterada destes Termos após advertência. Nos casos (a), (b), (e) e (f), o usuário é avisado do motivo e tem **5 dias** para se manifestar antes da decisão final; nos casos (c) e (d), a suspensão pode ser imediata e cautelar, com aviso do motivo e prazo de 5 dias para manifestação depois da suspensão. A decisão final é sempre tomada por uma pessoa da equipe LUUKSE. Para motoristas, nas situações relacionadas a antecedentes criminais, **prevalecem as regras específicas da cláusula 7A.4** (inclusive o prazo de 60 dias corridos para manifestação, o pedido único de revisão e as garantias da suspensão cautelar) sobre as desta cláusula.
+
+## 6\. Preços, pagamentos e divisão de valores
+
+6.1. **Composição do preço.** O preço é mostrado antes da confirmação. Ele pode incluir: tarifa base, distância, tempo, pedágios, mudanças de rota pedidas pelo cliente e serviços adicionais, mas somente os itens exibidos antes da confirmação. Nenhuma taxa não informada antes é cobrada.
+
+6.2. **Gateway.** Os pagamentos são processados pelo **Asaas**, instituição de pagamento, por **Pix** ou **cartão**, conforme as opções mostradas na contratação.
+
+6.2.1. **Momento da cobrança.** O valor da viagem é cobrado somente ao final da viagem. No **cartão**, o valor estimado é apenas reservado (pré-autorizado) no momento do pedido, sem cobrança; ao final, a LUUKSE cobra o valor devido e libera a reserva restante. Se a viagem for cancelada sem taxa, a reserva é cancelada e nada é cobrado. No **Pix**, a cobrança é gerada ao final da viagem, com o QR Code exibido no app. Quando houver taxa de cancelamento ou de cliente ausente, só o valor da taxa é cobrado.
+
+6.2.2. **Pagamento pendente.** Se o pagamento não for concluído ao final da viagem, o cliente fica impedido de solicitar novas viagens até quitar o valor pendente, que continua devido. O motorista recebe pela viagem realizada mesmo assim, no prazo informado no app.
+
+6.2.3. **Empresa de frota.** Quando o motorista é vinculado a uma empresa de frota, a remuneração do motorista é repassada integralmente à frota, que é responsável por remunerá-lo.
+
+6.3. **A LUUKSE não armazena os dados completos do cartão.** O cartão é tokenizado pelo Asaas; a LUUKSE guarda apenas um código (token) e os últimos dígitos para identificação.
+
+6.4. **Tarifas do Asaas — o que o motorista paga e o que não paga.**
+
+**Tabela 6.4 — Tarifas do Asaas e responsável pelo pagamento**
+
+| Tarifa do Asaas | Quando ocorre | Quem paga |
+| :---- | :---- | :---- |
+| Tarifa da cobrança (Pix ou cartão) | Em toda viagem paga | Calculada conforme a tabela do Asaas (https\://www\.asaas.com/precos-e-taxas), que pode ser alterada pelo Asaas. A forma como esse custo é considerado na remuneração do motorista segue a política de repasse vigente da LUUKSE. [A CONFIRMAR COM HELENA: definir quem suporta a tarifa da cobrança perante o motorista, sem revelar percentuais.] |
+| Abertura e manutenção da subconta | Cadastro do motorista | Ninguém cobra do motorista; se houver custo, é da LUUKSE |
+| Recebimento da remuneração do motorista na subconta | Em toda viagem | Sem tarifa para o motorista |
+| Transferência (saque) da subconta para a conta bancária do motorista | Quando o motorista saca | **Motorista**, pelo valor da tabela do Asaas, exceto as transferências gratuitas que o Asaas oferece por mês |
+| Antecipação de valores de cartão | Só se o motorista pedir | A LUUKSE **não oferece antecipação** de valores ao motorista. |
+| Tarifa de estorno ou chargeback | Quando ocorrer | Conforme a cláusula 6.11 |
+
+A tabela de tarifas do Asaas está em https\://www\.asaas.com/precos-e-taxas. **Antes de concluir o cadastro e em cada viagem, o aplicativo do motorista mostra o valor que ele receberá pela viagem e a tarifa do Asaas aplicável.** Reajustes de tarifas do Asaas valem só para operações posteriores e são avisados no app do motorista. A LUUKSE não define nem recebe as tarifas do Asaas.
+
+As tarifas do Asaas utilizadas nos exemplos destes Termos são ilustrativas; a tarifa vigente é a da tabela do Asaas (https\://www\.asaas.com/precos-e-taxas), que pode ser alterada pelo Asaas.
+
+6.5. **Preço, descontos e remuneração do motorista.** Cada viagem é calculada nesta ordem:
+
+1. **Preço cheio:** preço da viagem pela tarifa da modalidade PASS.  
+2. **Descontos:** plano pago (10% do preço cheio) e cupons, concedidos pela LUUKSE.  
+3. **Valor cobrado do cliente** = preço cheio − descontos.  
+4. **Tarifa do Asaas** sobre a cobrança, conforme a tabela do Asaas.  
+5. **Remuneração do motorista:** a remuneração do motorista segue a política de repasse vigente da LUUKSE, que pode ser alterada. Os descontos do plano e dos cupons concedidos pela LUUKSE não reduzem a remuneração do motorista.
+
+**Tabela 6.5 — Exemplo de viagem de R\$ 100,00 (preço cheio), com valores pagos pelo cliente**
+
+| Modalidade | Cliente paga |
+| :---- | :---- |
+| PASS | R\$ 100,00 |
+| Plano pago (−10%) | R\$ 90,00 |
+| PASS com cupom de R\$ 15,00 | R\$ 85,00 |
+| Plano pago (−10%) com cupom de R\$ 15,00 | R\$ 75,00 |
+
+A tarifa do Asaas é cobrada sobre a cobrança: no Pix, a tarifa ilustrativa dos exemplos destes Termos é fixa (R\$ 0,99) e não varia com o valor pago; no cartão de crédito, é percentual e fixa por cobrança (tarifa ilustrativa de 2,99% + R\$ 0,49) e incide sobre o valor efetivamente pago. Tratam-se de tarifas ilustrativas; a tarifa vigente é a da tabela do Asaas (https\://www\.asaas.com/precos-e-taxas), que pode ser alterada pelo Asaas.
+
+6.6. **Remuneração do motorista.** A remuneração do motorista segue a política de repasse vigente da LUUKSE, que pode ser alterada. [A CONFIRMAR COM HELENA: definir se e como as alterações da política de repasse são comunicadas ao motorista e a partir de quando valem.]
+
+6.7. **Natureza dos valores.** A LUUKSE atua como **intermediadora**, em nome e por conta de terceiros: o transporte é prestado pelo motorista ao cliente, e a LUUKSE recebe e repassa o pagamento. O valor total da viagem é controlado como **recurso de terceiros**: a remuneração do motorista é receita dele, repassada à subconta dele pelo split, e a tarifa do Asaas é receita do Asaas. A LUUKSE registra separadamente, para cada operação, o preço cheio, os descontos concedidos, a tarifa do Asaas, o repasse ao motorista, os reembolsos e os chargebacks. Para fins de faturamento e escrituração da LUUKSE, a base da NFS-e da intermediação corresponde exclusivamente aos valores efetivamente pertencentes à LUUKSE, sem incluir valores pertencentes ao motorista, à frota ou ao prestador do transporte, nem valores apenas transitados por conta e ordem de terceiros, desde que essa segregação seja comprovada pelos contratos, registros de split, extratos, conciliações e demais documentos da operação. [A CONFIRMAR COM HELENA: revisar a redação fiscal desta cláusula e da 6.8 sem os termos "comissão" e "percentual", preservando a segregação de valores de terceiros.]
+
+6.8. **Documentos fiscais.**
+
+* **Ao cliente (passageiro):** a LUUKSE envia **recibo detalhado** de cada viagem (motorista, trajeto, data, valor, descontos e tarifas), disponível no histórico do app. Clientes corporativos podem pedir nota fiscal de serviço (NFS-e) referente aos valores faturados pela LUUKSE. A nota ao cliente corporativo cobre **só os serviços faturados pela LUUKSE**. O recibo ou extrato comprova o valor total, mas não substitui o documento fiscal do transporte. No plano Empresa, o cliente corporativo recebe, a cada período de faturamento, boleto único com as viagens e os serviços da LUUKSE, relatório com os recibos das viagens, nota de débito referente às viagens e NFS-e somente dos serviços da LUUKSE.  
+* **Mensalidade de plano:** a LUUKSE emite NFS-e ao cliente titular, em cada pagamento.  
+* **Ao motorista e à frota:** a LUUKSE emite **NFS-e dos serviços de intermediação** prestados no período, com ISS recolhido ao **Município de Belo Horizonte**, onde fica o estabelecimento da LUUKSE, conforme a Lei Complementar nº 116/2003. A nota é, em regra, **mensal e consolidada**, acompanhada de extrato por viagem com o período e o valor faturado. A nota pode ser emitida por viagem quando a regra do município, o contrato ou o regime tributário exigir.  
+* **Motorista pessoa física:** declara e recolhe os próprios tributos sobre o que recebe; a LUUKSE disponibiliza extrato mensal de ganhos.  
+* **Motorista pessoa jurídica (incluindo MEI) e frota:** emitem os próprios documentos fiscais da sua parte, conforme a legislação do seu município.  
+* **Retenções de tributos:** só são feitas quando a lei atribuir expressamente essa obrigação à LUUKSE na operação.
+
+6.9. **Asaas e subcontas.** O Asaas é instituição de pagamento autorizada pelo Banco Central e atua como prestador do serviço de pagamento. Cada motorista e empresa de frota tem uma **subconta** no Asaas, aberta no próprio nome, com seus dados bancários e chave Pix informados por ele e verificados pelo Asaas. O motorista responde pela veracidade desses dados. O Asaas pode **bloquear** saldos ou subcontas segundo suas próprias regras e a regulação (por exemplo, por suspeita de fraude ou ordem judicial); a LUUKSE avisa o motorista quando souber do bloqueio e ajuda no contato. **Saldo negativo** na subconta só pode ser compensado com ganhos futuros do motorista quando o estorno ou chargeback decorrer de culpa dele, e somente após o procedimento da cláusula 6.11 (apuração, aviso e prazo para contestar). Cada compensação aparece no extrato. Se o Asaas não permitir a compensação automática, a LUUKSE envia ao motorista a cobrança do valor, com o mesmo procedimento prévio. Os prazos de recebimento dos valores, aplicáveis também às empresas de frota, estão na cláusula 7A.11.
+
+6.10. **Descontos e cupons** seguem as condições mostradas em cada oferta; o custo é sempre da LUUKSE (cláusula 6.5).
+
+6.11. **Contestações, estornos e chargebacks.** O cliente pode contestar cobranças pelo app ou por contato@luukseapp.com. Estorno devido é feito pelo mesmo meio de pagamento, desfazendo a divisão na mesma proporção em que foi feita. Em **chargeback** (contestação junto ao banco do cartão), a LUUKSE arca com o valor e com a tarifa do Asaas, **exceto** se ficar comprovado que a viagem não foi realizada ou foi prejudicada por culpa do motorista. Nesse caso, antes de qualquer desconto na remuneração do motorista: (1) a LUUKSE **apura** o caso com os registros da viagem; (2) **avisa** o motorista pelo app, com o motivo e as provas; (3) o motorista tem **5 dias** para **contestar**, e a contestação é analisada por uma pessoa; (4) só depois da decisão final o valor pode ser compensado, com registro no extrato.
+
+### 6A. Planos e assinaturas
+
+6A.1. A LUUKSE oferece os planos **Individual**, **Family** (Família) e **Enterprise** (Corporativo), além da modalidade **PASS** (viagens avulsas, sem mensalidade). Benefícios, preços e condições aparecem no aplicativo antes da contratação. O principal benefício dos planos pagos é o desconto de 10% em cada viagem (cláusula 6.5).
+
+6A.2. **Periodicidade e cobrança.** Os planos são **mensais** e, nesta versão, **não se renovam automaticamente**: cada mês é cobrado e contratado separadamente, com aviso no aplicativo antes do vencimento. Quando a renovação automática for lançada, ela só valerá para quem a ativar expressamente, com aviso prévio antes de cada cobrança e direito de cancelar sem custo.
+
+6A.3. **Preço e impostos.** O preço exibido já inclui os tributos. A LUUKSE emite nota fiscal de cada mensalidade (cláusula 6.8).
+
+6A.4. **Falha no pagamento.** Se a mensalidade não for paga, o plano não é ativado para o novo mês e as viagens passam a ser cobradas pela modalidade PASS. Não há multa nem juros.
+
+6A.5. **Troca de plano.** A troca vale **imediatamente**. No mês corrente, cobra-se só a diferença proporcional aos dias restantes (pró-rata); se o novo plano for mais barato, a diferença vira crédito na próxima mensalidade. O preço cheio do novo plano passa a valer a partir do mês seguinte.
+
+6A.6. **Cancelamento.** Você pode cancelar a qualquer momento, pelo app ou por contato@luukseapp.com, de forma tão simples quanto a contratação. Os benefícios continuam até o fim do mês pago, sem reembolso proporcional, exceto nos casos de arrependimento (6A.7) ou falha da LUUKSE na prestação do plano, quando o reembolso é proporcional aos dias não usufruídos.
+
+6A.7. **Direito de arrependimento.** Em qualquer contratação pela internet, inclusive planos, você pode desistir em até **7 dias** contados da contratação (art. 49 do CDC). Nos planos: se o plano **não foi usado** (nenhuma viagem com desconto), o reembolso é **integral**; se foi usado, o reembolso é **proporcional**, descontado apenas o valor dos descontos já aproveitados. O estorno é feito pelo **mesmo meio de pagamento**. Para viagens avulsas, o arrependimento é exercido pelo cancelamento da viagem antes da sua realização, sem prejuízo das garantias do CDC.
+
+6A.8. **Chargeback de mensalidade.** Contestada a mensalidade junto ao banco, os benefícios do plano ficam suspensos até a conclusão da disputa.
+
+## 7\. Cancelamentos e reembolsos
+
+7.1. **Cancelamento pelo cliente de viagem imediata:** (as viagens agendadas seguem o Anexo A.7)
+
+* **Até 2 minutos após o aceite do motorista:** sem custo, reembolso integral.  
+* **Depois de 2 minutos:** taxa de cancelamento de **R\$ 7,00**, e nada mais é cobrado (cláusula 6.2.1). A taxa remunera o deslocamento do motorista; a remuneração do motorista segue a política de repasse vigente da LUUKSE, que pode ser alterada (cláusula 7.5).  
+* **Com o motorista já no local de embarque:** o cancelamento pelo cliente segue as regras acima.  
+* **Cliente ausente (no-show):** após a chegada do motorista ao local de embarque, o cliente tem **5 minutos de espera gratuita** (no mínimo 10 minutos nas viagens com necessidade de acessibilidade, conforme o item seguinte). Se, ao fim desse tempo, o cliente não comparecer nem responder às tentativas de contato pelo aplicativo, o motorista pode encerrar a viagem como ausência, com **taxa de cliente ausente de R\$ 7,00**, cuja destinação é a mesma da taxa de cancelamento (a remuneração do motorista segue a política de repasse vigente da LUUKSE, que pode ser alterada), e nada mais é cobrado. O motorista só pode encerrar a viagem como ausência depois de registrar no aplicativo a sua chegada ao local de embarque, aguardar o prazo aplicável e tentar contato com o cliente por canal acessível disponível no aplicativo, preferencialmente por mensagem no chat da viagem ou outro recurso compatível com a necessidade informada, sem depender exclusivamente de ligação. A tentativa, o horário e o resultado ficam registrados na Plataforma. A taxa de cliente ausente só pode ser cobrada quando esse procedimento tiver sido cumprido e a ausência não estiver relacionada à necessidade de acessibilidade, ao embarque assistido, a falha da Plataforma ou a outra circunstância imputável à LUUKSE. O cliente pode contestar a cobrança pelo atendimento.  
+* **Viagens com necessidade de acessibilidade:** quando houver necessidade de acessibilidade, informada previamente ao pedir a viagem ou identificada no atendimento, inclusive no embarque (por exemplo, uso de cadeira de rodas, cão-guia ou outro equipamento assistivo, mobilidade reduzida, deficiência visual, auditiva ou de fala, apoio de comunicação ou outra adaptação necessária ao embarque), a espera gratuita é de **no mínimo 10 minutos**, e não de 5. A ausência de informação prévia não elimina o dever de atendimento acessível nem impede a análise da situação no momento do embarque. O tempo razoavelmente necessário para a comunicação acessível, a aproximação segura, o embarque assistido, isto é, a ajuda ao cliente para entrar no veículo, e a acomodação do passageiro, de cadeira de rodas, de cão-guia ou de outro equipamento assistivo não é contado como tempo de espera e não gera cobrança nem taxa de cliente ausente. O motorista presta auxílio compatível com a sua segurança e com as condições do serviço, sem exigir do passageiro informação médica ou comprovação de deficiência. A pessoa idosa tem atendimento prioritário e, se precisar de apoio ou adaptação para o embarque, recebe o mesmo tratamento desta cláusula, sem que se exija dela declarar deficiência nem informar dados desnecessários; a idade, por si só, não é tratada como deficiência. Depois dos 10 minutos, aplica-se a regra de cliente ausente acima, com o registro da chegada e a tentativa prévia de contato por canal acessível. A taxa de R\$ 7,00 pode ser contestada pelo cliente e, nessas viagens, a LUUKSE dispensa a cobrança sempre que verificar que o atraso decorreu ou foi agravado pela necessidade de acessibilidade, pelo embarque assistido ou por falha da Plataforma. Nas viagens agendadas, a taxa percentual do Anexo A.7 também não é cobrada nessas situações, e o cancelamento antecipado segue a tabela do Anexo A.7, salvo se o cliente comprovar que a necessidade de acessibilidade foi o motivo do cancelamento; a comprovação é feita ao atendimento com o mínimo de informação necessária, sem exigência de laudo, diagnóstico ou dado médico.  
+* **Compensação do motorista:** quando a LUUKSE dispensar a taxa ao cliente porque o atraso ou o cancelamento decorreu de necessidade de acessibilidade, embarque assistido, falha operacional ou decisão de atendimento, e o motorista tiver cumprido os requisitos de chegada, espera e contato (e, nas viagens agendadas, o estágio registrado na Plataforma), a LUUKSE paga ao motorista **o mesmo valor que ele receberia se a taxa tivesse sido cobrada**, sem cobrança ao cliente: **R\$ 7,00** nas viagens imediatas e, nas viagens agendadas, o **mesmo percentual** aplicável ao estágio registrado (Anexo A.7). O motorista não recebe menos por a dispensa ter decorrido de acessibilidade. Não há compensação quando a ausência de cobrança decorrer exclusivamente de conduta imputável ao motorista, assegurada a análise de situações de risco, emergência ou impossibilidade justificada.  
+* **Viagem iniciada:** não pode ser cancelada pelo aplicativo; problemas durante a viagem são tratados pelo atendimento.
+
+**Exemplo:** viagem imediata de R\$ 50,00 cancelada 5 minutos após o aceite: o cliente paga só R\$ 7,00, e a remuneração do motorista segue a política de repasse vigente da LUUKSE, que pode ser alterada (cláusula 7.5).
+
+7.1.1. **Significado dos termos usados nas cláusulas 7.1 e 7.3 e no Anexo.** (a) *Chegada*: o registro, feito pelo motorista no aplicativo, de que chegou ao local de embarque. (b) *Espera gratuita*: o tempo, contado da chegada, em que o cliente pode comparecer sem cobrança (5 minutos; no mínimo 10 minutos nas viagens com necessidade de acessibilidade). (c) *Tentativa de contato*: a mensagem ou o outro contato feito pelo motorista, por canal acessível do aplicativo, registrado com horário e resultado. (d) *Estágio operacional*: o ponto em que a viagem agendada estava no momento do cancelamento, conforme o último registro da Plataforma (por exemplo, antes do deslocamento, motorista a caminho ou motorista no local). (e) *Falha imputável à LUUKSE*: erro, indisponibilidade ou decisão da Plataforma ou do atendimento que tenha causado ou agravado o cancelamento ou a ausência.
+
+7.2. **Tarifa do Asaas no estorno.** Regra adotada: a tarifa do Asaas de cobranças estornadas, inteira ou parcialmente, é custo da LUUKSE e nunca é descontada do cliente nem da remuneração do motorista na taxa de cancelamento.
+
+7.3. **Mudança nas taxas de cancelamento e de cliente ausente, nos percentuais e faixas do Anexo A.7 ou nos prazos de 2 minutos, de 5 minutos e de 10 minutos (acessibilidade):** esses valores e prazos são definidos pela LUUKSE e podem ser alterados; a mudança vale apenas para viagens confirmadas depois da mudança, e o valor vigente aparece na tela antes da confirmação. **Nenhuma alteração pode reduzir a espera gratuita mínima de 10 minutos das viagens com necessidade de acessibilidade, nem afastar as hipóteses de dispensa da taxa previstas nas cláusulas 7.1 e 7.4 e no Anexo A.7.** A compensação ao motorista prevista na cláusula 7.1 acompanha sempre o valor que o motorista receberia pela taxa dispensada e não pode ser inferior ao que recebem os demais motoristas.
+
+7.4. **Sem taxa:** quando o motorista atrasar além do tempo estimado mostrado no aceite, quando o motorista cancelar ou quando houver falha da Plataforma ou outra falha imputável à LUUKSE ou ao motorista (nas viagens agendadas, também conforme o Anexo A.7). **Se o motorista cancelar, o reembolso ao cliente é sempre integral.**
+
+7.5. **Natureza e destinação das taxas de cancelamento e ausência.** As taxas de cancelamento e de cliente ausente (inclusive as percentuais do Anexo A.7) remuneram o deslocamento e o tempo do motorista e a intermediação da LUUKSE. Quanto a essas taxas, a remuneração do motorista segue a política de repasse vigente da LUUKSE, que pode ser alterada (cláusula 7.3), e vale conforme a versão em vigor na data da viagem. Se a taxa for depois estornada ao cliente, o repasse é desfeito na mesma proporção, e a tarifa do Asaas é custo da LUUKSE (cláusula 7.2).
+
+7.6. As regras detalhadas estão no **Anexo**, que faz parte destes Termos. Em caso de divergência, vale a regra mais favorável ao consumidor.
+
+## 7A. Regras para motoristas e veículos
+
+7A.1. **Requisitos legais (art. 11-B da Lei nº 12.587/2012).** O motorista deve: (I) ter **CNH** da categoria B ou superior com a observação de que **exerce atividade remunerada (EAR)**; (II) conduzir veículo que atenda aos requisitos de idade máxima e às características exigidas pela autoridade de trânsito e pelo município; (III) manter o **CRLV** do veículo em dia; e (IV) apresentar **certidão de antecedentes criminais**, na forma exigida pela legislação federal e pela regulamentação municipal aplicável (cláusula 7A.4.1).
+
+7A.2. **Requisitos municipais.** Além disso, o motorista deve cumprir as exigências do município onde atua para o transporte por aplicativo, que podem incluir, conforme a norma local, o **seguro de Acidentes Pessoais a Passageiros (APP)** e a **inscrição no INSS como contribuinte individual** (art. 11-A da Lei nº 12.587/2012, que dá ao município o poder de exigi-los). Em Belo Horizonte e na Região Metropolitana, segue-se a regulamentação de cada município onde o motorista atua.
+
+7A.3. **Seguro.** A LUUKSE exige de **todos os motoristas** o **seguro de Acidentes Pessoais a Passageiros (APP)** válido, independentemente de exigência municipal, além de qualquer seguro obrigatório que venha a ser criado por lei. Hoje não há seguro obrigatório de trânsito em vigor: a Lei Complementar nº 207/2024 revogou a lei do DPVAT (Lei nº 6.194/1974) e criou o SPVAT, mas o SPVAT foi revogado pela Lei Complementar nº 211/2024, publicada em 31/12/2024, sem restabelecer o DPVAT. A cobertura das viagens é a do seguro APP de cada motorista.
+
+7A.4. **Antecedentes criminais.**
+
+7A.4.1. **Requisito documental legal.** A apresentação da certidão exigida pela legislação federal e pela regulamentação municipal aplicável é requisito documental autônomo para o cadastro e para a autorização da atividade. A análise individualizada prevista nesta cláusula é procedimento interno adicional de segurança e não substitui, flexibiliza ou dispensa requisito legal, regulatório ou documental aplicável. Para esse fim, o motorista apresenta a certidão de antecedentes criminais exigida pela prefeitura do município onde atua, conforme a regulamentação local, além das certidões indicadas na Política de Privacidade, Seção 3.3. Certidão de distribuição não se confunde com certidão negativa.
+
+7A.4.2. **As três situações possíveis.** (a) **documento ausente, ilegível, vencido ou inválido:** o requisito documental não está cumprido, e o cadastro não é aprovado, ou o recebimento de viagens fica suspenso, até a regularização, sem qualquer juízo sobre a conduta do motorista; (b) **registro não vinculado ao motorista ou sem conteúdo desfavorável:** os casos de homônimo, erro cadastral ou certidão incorreta, bem como os registros em que tenha havido absolvição, reconhecimento de inocência, de inexistência do fato ou de negativa de autoria, são desconsiderados; e (c) **registro confirmado e relevante:** é submetido à avaliação individual, segundo os critérios abaixo. A existência de processo, distribuição ou apontamento não será tratada como condenação. Quando o documento ou a regulamentação aplicável exigir certidão negativa, a LUUKSE verificará separadamente o atendimento desse requisito formal. A avaliação interna de segurança considerará apenas fatos confirmados e relevantes, sem presumir culpa pela mera existência de investigação ou processo.
+
+7A.4.3. **Critérios da avaliação individual.** A avaliação é feita caso a caso, com base em fontes oficiais ou verificáveis, e considera: (i) a distinção entre **condenação definitiva** e processo, investigação ou apontamento ainda sem decisão definitiva; (ii) o **tipo do fato**, considerado somente quando houver **conexão objetiva** com os riscos do transporte individual de passageiros, como crimes praticados com violência ou grave ameaça à pessoa, crimes contra a dignidade sexual, crimes relacionados à condução de veículos e fraudes ou crimes patrimoniais cujas circunstâncias revelem risco concreto aos passageiros; (iii) a **data do fato** e o tempo decorrido, a **reabilitação** e a **extinção da punibilidade**; (iv) a confirmação do **vínculo de identidade** entre o registro e o motorista; (v) a eventual **reincidência**; e (vi) a possibilidade de **medidas menos restritivas** que a reprovação. **Não são utilizados** critérios baseados em renda, bairro ou local de residência, raça, cor, etnia, religião, nacionalidade, origem, gênero, orientação sexual ou qualquer outra característica discriminatória. **Não haverá reprovação automática** em razão do tipo penal, da existência de investigação, de distribuição ou de processo sem trânsito em julgado, da antiguidade do fato ou do cumprimento da pena; esses elementos são apenas ponderados na avaliação individual. A verificação se justifica pela segurança das viagens: o transporte individual de passageiros, inclusive no período noturno e em situações de vulnerabilidade, exige medidas proporcionais de prevenção contra violência, fraude, roubo, sequestro e riscos da condução.
+
+7A.4.4. Comunicação, contestação e revisão humana. Antes de qualquer decisão final desfavorável, o motorista recebe comunicação que informa o resultado desfavorável e os seus motivos: o fato considerado, a fonte, a data da consulta e os fundamentos da avaliação. A partir daí, tem 60 dias corridos, contados da confirmação do recebimento da comunicação, para apresentar documentos, contestar o resultado e pedir revisão individual por uma pessoa da equipe LUUKSE, pelo e-mail privacidade@luukseapp.com. O pedido de revisão é único: pode ser feito uma só vez para cada comunicação. A contestação suspende a decisão final até o fim desse prazo e a conclusão da revisão, salvo risco concreto à segurança, hipótese em que se aplica a suspensão cautelar abaixo. A ausência de manifestação não equivale a confissão nem a reconhecimento do fato. A LUUKSE analisa o pedido e responde de forma fundamentada no menor prazo possível. A decisão tomada na revisão é final no âmbito da LUUKSE, sem prejuízo dos direitos previstos na LGPD, inclusive o de apresentar reclamação à Autoridade Nacional de Proteção de Dados (ANPD).
+
+7A.4.5. **Suspensão cautelar.** A suspensão cautelar não será automática pela simples geração de alerta. Será aplicada somente quando houver risco concreto, atual e fundamentado à segurança, terá alcance mínimo necessário e não produzirá, por si só, conclusão de culpa ou reprovação definitiva. A comunicação da suspensão cautelar informa a data de início, o motivo e o alcance. Além disso: (a) **responsável:** a suspensão é decidida por pessoa da equipe LUUKSE, com ciência da encarregada, e nunca de forma exclusivamente automatizada; (b) **critérios:** a suspensão somente é aplicada enquanto houver elementos concretos e atuais que indiquem risco à segurança de passageiros, e não se fundamenta na mera existência de investigação, distribuição ou processo; (c) **duração:** a suspensão dura até a decisão final, tomada após o prazo de manifestação ou, se houver pedido, após a revisão, e se encerra com ela; e (d) **registro:** a aplicação e o encerramento da suspensão são registrados com seus fundamentos e comunicados ao motorista.
+
+7A.4.6. **Disposições gerais.** Nenhuma reprovação definitiva é tomada exclusivamente com base em decisão automatizada (Política de Privacidade, Seção 3.3). A LUUKSE pode verificar a identidade, os documentos e a biometria facial do motorista **por meios próprios ou de parceiros e fornecedores de verificação de identidade**, sempre conforme a Política de Privacidade. A biometria facial integrará o cadastro **quando e se for ativada, após cumpridos os requisitos da Política de Privacidade, Seção 3.2**; até lá, não é exigida. O motorista é aprovado somente se cumprir todos os requisitos aplicáveis. Documentos vencidos suspendem o recebimento de novas viagens até a regularização. Dos documentos vencidos ou substituídos, a regra adotada é guardar somente a evidência mínima da verificação, e os demais dados são eliminados quando não forem mais necessários (Política de Privacidade, Seção 9.3). A eliminação de documentos pessoais e certidões não alcança documentos fiscais, contábeis, financeiros ou probatórios (como notas fiscais, comprovantes de pagamento, relatórios de split, extratos de repasse, registros de chargeback e escrituração), que são guardados pelos prazos legais e enquanto necessários a fiscalização, auditoria ou processo judicial ou administrativo. Em caso de conflito, a cláusula 7A.4 prevalece sobre a cláusula 5.3.
+
+7A.5. **Veículo:** em bom estado, limpo, com manutenção em dia e itens de segurança funcionando, conforme o padrão LUUKSE e as inspeções da Plataforma.
+
+7A.6. **Segurança:** respeitar as leis de trânsito, não dirigir cansado ou sob efeito de álcool ou outras substâncias, seguir o trajeto combinado, salvo pedido do cliente ou necessidade de segurança.
+
+7A.7. **Incidentes:** acidentes e ocorrências de segurança devem ser comunicados à LUUKSE em até 24 horas pelo app ou contato@luukseapp.com. Em emergências, acione primeiro as autoridades (190, 192, 193).
+
+7A.8. **Objetos esquecidos:** o motorista informa à LUUKSE objetos encontrados. A LUUKSE coloca as partes em contato para a devolução.
+
+7A.9. **Acessibilidade:** é proibido recusar ou discriminar passageiros com deficiência. O motorista deve aceitar **cão-guia** (Lei nº 11.126/2005) e equipamentos como cadeiras de rodas dobráveis que caibam no veículo (Lei nº 13.146/2015).
+
+7A.10. **Reclamações:** clientes e motoristas podem reclamar pelo app ou por contato@luukseapp.com. A LUUKSE **confirma o recebimento imediatamente**, como exige o art. 4º, V, do Decreto nº 7.962/2013, e, por **política interna**, responde em até **5 dias** (o decreto não fixa esse prazo). Cada caso é analisado, com direito de manifestação das partes, e pode levar a advertência, suspensão ou desligamento (cláusula 5.3).
+
+7A.11. **Prazos de recebimento.** Os prazos de liberação dos valores são regras do Asaas, instituição de pagamento responsável pelo processamento, e não da LUUKSE. No momento do pagamento, o valor da viagem já é dividido (*split*) entre o motorista, a empresa de frota, quando houver, e a LUUKSE, e cada parte segue o prazo de liberação do Asaas aplicável ao meio de pagamento usado pelo cliente. Por isso, **nem todo pagamento fica disponível imediatamente**:
+
+* **Pix (QR Code dinâmico):** crédito imediato;  
+* **Cartão de débito:** liberação em 3 (três) dias;  
+* **Cartão de crédito à vista:** liberação em 32 (trinta e dois) dias contados do pagamento;  
+* **Cartão de crédito parcelado:** liberação conforme o calendário do Asaas, em regra com cada parcela liberada mês a mês.
+
+O saldo do motorista ou da frota na subconta somente fica disponível para saque quando o Asaas libera o valor correspondente. Os prazos e as tarifas do Asaas podem ser alterados pelo Asaas a qualquer tempo, e a LUUKSE não controla essas condições. Recomenda-se que o motorista e a empresa de frota consultem sempre os termos e condições vigentes do próprio Asaas, publicados em [https\://www\.asaas.com/precos-e-taxas](https://www.google.com/url?q=https://www.asaas.com/precos-e-taxas&sa=D&source=editors&ust=1793331560016389&usg=AOvVaw22vKVUXwMxbrZmtpBMQRmy). O saque, as tarifas de saque e as demais regras da subconta do motorista e da empresa de frota no Asaas seguem os termos e condições do Asaas, que podem ser alterados pelo Asaas a qualquer tempo. A LUUKSE não se responsabiliza por alterações promovidas pelo Asaas após o repasse dos valores à subconta.
+
+7A.11.1. **Antecipação (opcional).** Quando disponibilizada pelo Asaas, o motorista ou a empresa de frota poderá optar por antecipar os recebíveis de cartão de crédito, arcando com o custo cobrado pelo Asaas (atualmente a partir de 1,15% ao mês, conforme a tabela do Asaas), que será descontado da sua própria parte. A adesão é opcional, e a LUUKSE não arca com esse custo. Antes da aceitação, o aplicativo exibe o custo da antecipação em reais. *Exemplo ilustrativo:* em uma viagem de R\$ 30,00 paga com cartão de crédito, o custo seria de cerca de R\$ 0,35; o valor efetivo depende da tabela vigente do Asaas e do prazo antecipado. A antecipação aplica-se somente aos pagamentos com cartão de crédito; os prazos do Pix (imediato) e do cartão de débito (3 dias) não se alteram.
+
+7A.11.2. **Viagens já contratadas.** Alterações de tarifas, taxas ou prazos, do Asaas ou da LUUKSE, não afetam viagens já contratadas, que seguem o valor e as condições aceitos no momento da contratação.
+
+## **7B. Programa Excelência LUUKSE**
+
+7B.1. **O que é o Programa.** O Programa Excelência LUUKSE (o “Programa”) é um programa de reconhecimento da LUUKSE aos motoristas parceiros que oferecem a melhor experiência aos clientes. Ele mede a qualidade do atendimento, e não apenas a quantidade de viagens, com base na avaliação dos clientes, na pontualidade, na fidelização, na preferência dos clientes e no cumprimento dos padrões LUUKSE. O Programa não existe para escolher um único vencedor: motoristas diferentes podem vencer categorias diferentes no mesmo período.
+
+7B.2. **Formas de reconhecimento.** O reconhecimento tem três formas: (a) o Selo de Excelência no perfil do motorista; (b) a premiação financeira; e (c) o título de Motorista do Ano LUUKSE.
+
+7B.3. **Quem participa.** A participação é automática para todo motorista parceiro ativo, seja autônomo ou vinculado a empresa de frota, sem inscrição e sem custo. Para concorrer à premiação de um ciclo, o motorista deve, no período: (a) estar com o cadastro ativo na LUUKSE; (b) ter concluído o número mínimo de viagens definido pela LUUKSE para o ciclo, sendo que, no ciclo anual, o mínimo corresponde a quatro vezes o do trimestre; e (c) não ter recebido advertência de conduta no período (cláusula 7B.10). Quem não atinge o mínimo continua acumulando histórico e aparece no ranking, mas não concorre à premiação daquele ciclo.
+
+7B.4. **Ciclos de premiação.** O Programa tem dois ciclos simultâneos, sempre no horário de Brasília:
+
+(a) ciclo trimestral: janeiro a março, abril a junho, julho a setembro e outubro a dezembro, com fechamento no primeiro dia do trimestre seguinte. Os vencedores das cinco categorias recebem o Selo de Excelência e a premiação trimestral;
+
+(b) ciclo anual: de 1º de janeiro a 31 de dezembro, com fechamento em 1º de janeiro do ano seguinte. Os três primeiros colocados tornam-se Motoristas do Ano LUUKSE e recebem o troféu e a premiação anual.
+
+O sistema fecha cada ciclo automaticamente, apura os vencedores segundo os critérios do Programa, registra as premiações, entrega os selos e avisa os motoristas pelo aplicativo. A **aprovação e o pagamento** da premiação são sempre decididos por **uma pessoa da equipe da LUUKSE**, que confere a apuração antes de aprovar. O primeiro fechamento automático é o do quarto trimestre de 2026, em 01/01/2027. [A CONFIRMAR COM HELENA: manter 01/01/2027 somente se o Programa estiver ativo no 4º trimestre de 2026 e se os critérios do ciclo em curso já estiverem divulgados no aplicativo na data da publicação.] Antes do fechamento de cada ciclo, a LUUKSE divulga aos participantes os critérios, os pesos e as métricas de desempenho, os requisitos mínimos, as categorias e a metodologia de apuração do ranking, sem divulgar previamente os percentuais, as faixas nem a base econômica da premiação financeira, que seguem as garantias da cláusula 7B.8.1. Esses critérios, pesos, métricas, mínimos, categorias e a metodologia não são alterados durante o ciclo nem depois do seu fechamento, nem aplicados retroativamente. A apuração é registrada de forma auditável, com indicação dos dados utilizados e dos ajustes realizados.
+
+O cancelamento de premiação registrada somente pode ocorrer por erro material, fraude, duplicidade, violação comprovada dos critérios ou determinação legal. A LUUKSE comunica o motivo, os dados afetados e a consequência financeira, e permite a manifestação do motorista **no prazo de 10 (dez) dias corridos** contados da comunicação. [A CONFIRMAR COM HELENA: prazo objetivo sugerido, em lugar de “prazo razoável”.] Premiação já paga somente pode ser objeto de estorno ou compensação após apuração individualizada, comunicação prévia e possibilidade de contestação. Nada é apagado do histórico.
+
+7B.5. **Categorias.** A cada trimestre há cinco categorias, apuradas automaticamente com os dados reais das viagens do período:
+
+(a) Mais Favoritado: vence o motorista com o maior número de clientes diferentes que o pediram como motorista preferido. Pedidos repetidos do mesmo cliente contam uma vez, e só valem os pedidos aceitos pelas regras de motoristas preferidos;
+
+(b) Excelência em Atendimento: vence o motorista com a maior nota média dada pelos clientes, observado o número mínimo de viagens avaliadas definido pela LUUKSE;
+
+(c) Mestre da Pontualidade: vence o motorista com o maior percentual de chegadas no horário marcado, dentro da tolerância definida pela LUUKSE, observado o número mínimo de viagens agendadas. As corridas imediatas não contam;
+
+(d) Motorista Fidelidade: vence o motorista com o maior percentual de clientes que voltaram a viajar com ele, entendidos como os que fizeram duas ou mais viagens no período, observado o número mínimo de clientes diferentes definido pela LUUKSE;
+
+(e) Excelência Profissional: vence o motorista com a maior pontuação nos padrões LUUKSE, que consideram a nota média mínima, o volume de viagens e a habilitação e os treinamentos em dia.
+
+7B.6. **Empate e ocorrências operacionais.** Se dois ou mais motoristas empatarem no critério principal, o sistema aplica critérios sucessivos de desempate: maior base de medição (mais avaliações, mais viagens medidas ou mais clientes, conforme a categoria), depois maior pontuação e, por fim, mais viagens concluídas. Se o empate persistir em todos os critérios, todos os empatados vencem, recebem o selo e dividem igualmente a premiação daquela categoria. Ocorrências operacionais registradas sobre uma viagem, como pane, acidente ou problema com o passageiro, não eliminam o motorista nem lhe tiram pontos.
+
+7B.7. **Selo de Excelência.** Cada vencedor de categoria recebe o Selo de Excelência correspondente no fechamento do trimestre. O selo fica visível no perfil do motorista, inclusive para os clientes, por 30 (trinta) dias a partir do fechamento, prazo que a LUUKSE pode alterar nos termos da cláusula 7B.13. Depois desse prazo, o selo deixa de aparecer publicamente, mas a conquista permanece registrada no histórico do motorista. O motorista acompanha no aplicativo os selos ativos, os dias restantes e o histórico de conquistas. Se uma premiação for cancelada, o selo correspondente é retirado do perfil.
+
+7B.8. **Premiação financeira.** Além do selo, os vencedores recebem uma premiação em dinheiro, calculada como um percentual do lucro líquido da LUUKSE no período, conforme as regras definidas pela administração da LUUKSE:
+
+(a) base de cálculo: o lucro líquido do ciclo, e não o faturamento, apurado pela LUUKSE a partir do resultado das corridas pagas e dos planos de clientes, deduzidos as despesas e os custos que a LUUKSE absorve;
+
+(b) percentual: definido pela LUUKSE para cada ciclo e categoria, sem divulgação prévia, com as garantias da cláusula 7B.8.1, e podendo ser alterado para ciclos futuros nos termos da cláusula 7B.13;
+
+(c) registro: o sistema registra o período, a base, o percentual, o valor calculado, a aprovação e o pagamento de cada premiação;
+
+(d) aprovação e pagamento: toda premiação depende de aprovação da LUUKSE antes de ser paga.
+
+No aplicativo, a conquista aparece como “em análise”, e o valor final só é exibido ao motorista depois de aprovado. Antes da aprovação, o motorista não vê percentuais nem base de cálculo e, em nenhum momento, vê dados de outros motoristas. Aprovada a premiação, o beneficiário recebe o valor final com a demonstração prevista na cláusula 7B.8.1. Se a LUUKSE não tiver lucro líquido no ciclo, não há premiação em dinheiro naquele ciclo, e a LUUKSE pode encerrá-lo apenas com os selos e o reconhecimento.
+
+7B.8.1. **Garantias do motorista sobre a premiação financeira.** Os percentuais, as faixas e a base econômica não são divulgados antes da apuração, mas a LUUKSE assegura que:
+
+(a) a premiação é eventual: depende do lucro líquido do ciclo e da aprovação, e **não há valor mínimo garantido**;
+
+(b) não há critério retroativo: os critérios, os pesos, as métricas, os mínimos e as categorias do ciclo são divulgados antes do seu início e não são alterados depois, e os percentuais e a base do ciclo são registrados no sistema, com data e hora, antes da apuração e não são alterados depois dela;
+
+(c) a memória de cálculo é guardada: o sistema registra o período, a base, o percentual, o valor calculado, a aprovação e o pagamento (item (c) da cláusula 7B.8), em registro auditável e conservado pelo prazo da Política de Privacidade;
+
+(d) o vencedor recebe a demonstração: com o valor aprovado, o beneficiário recebe o período, a categoria ou posição, a **base de cálculo considerada**, o **percentual aplicado** e o resumo do cálculo do seu valor, sem acesso a dados de outros motoristas;
+
+(e) há prazo e canal para contestar: o motorista pode contestar a apuração ou o valor **em até 30 (trinta) dias corridos** da comunicação do resultado, pelo aplicativo ou por contato@luukseapp.com, e a contestação é analisada por **uma pessoa da equipe da LUUKSE**, que responde em até 15 (quinze) dias, com os motivos da decisão [A CONFIRMAR COM ANGEL E HELENA: prazos de 30 e 15 dias sugeridos];
+
+(f) há tratamento igual: os mesmos critérios, percentuais e regras valem para todos os motoristas na mesma categoria, posição e ciclo, sejam autônomos ou vinculados a frota; e
+
+(g) as mudanças valem só para o futuro: qualquer alteração de percentuais, faixas, base ou critérios vale apenas para ciclos ainda não iniciados (cláusula 7B.13).
+
+7B.9. **Motoristas do Ano LUUKSE.** Ao fim de cada ciclo de 12 meses, os três primeiros colocados no ranking anual tornam-se Motoristas do Ano LUUKSE. O ranking anual usa os mesmos critérios e pesos do trimestre, somando o ano inteiro. Os três recebem um troféu físico LUUKSE e podem ser homenageados em cerimônia anual. Recebem também a premiação anual, com percentuais diferentes para o 1º, o 2º e o 3º lugar, calculados sobre o lucro líquido do ano, nos termos das cláusulas 7B.8 e 7B.8.1. O título fica registrado permanentemente no perfil e no histórico do motorista e pode ser exibido aos clientes.
+
+7B.10. **Advertência de conduta.** O motorista que receber advertência por mau comportamento fica fora da premiação do trimestre em que a conduta ocorreu. Ele não perde pontos e volta a concorrer normalmente no trimestre seguinte. Com duas ou mais advertências no ano, fica fora também da premiação de Motoristas do Ano. São motivos de advertência de conduta: (a) desrespeito ou falta de cortesia com o cliente; (b) linguagem ou atitude imprópria; (c) apresentação fora do padrão LUUKSE (dress code); (d) uso do celular ao volante; (e) direção perigosa ou imprudente; (f) cobrança ou pedido indevido ao cliente; (g) discriminação ou assédio; e (h) outra conduta inadequada.
+
+(i) Registro: somente a LUUKSE registra a advertência, com o motivo, a data e a descrição do ocorrido.
+
+(ii) Aviso: o motorista é avisado pelo aplicativo e vê o motivo e a descrição.
+
+(iii) Contestação: se discordar, o motorista pode contestar uma única vez, pelo aplicativo, explicando a sua versão.
+
+(iv) Decisão: a LUUKSE analisa a contestação e mantém a advertência, com resposta ao motorista, ou a cancela. Cancelada a advertência, o motorista volta a concorrer à premiação do período.
+
+(v) Histórico: nenhuma advertência é apagada; o cancelamento apenas altera o status e fica registrado.
+
+Ocorrências operacionais registradas sobre uma viagem, como pane, acidente ou problema com o passageiro, não são advertências e não afetam a premiação. A advertência do Programa não substitui o procedimento da cláusula 5.3 nem impede a LUUKSE de aplicá-lo, quando cabível.
+
+7B.11. **Transparência e dados.** Cada participante vê apenas o que lhe cabe: (a) o motorista vê a sua posição no trimestre, os seus indicadores, os padrões que cumpre, as categorias que lidera, os seus selos, conquistas e advertências e o valor final aprovado, informado ao motorista com a demonstração da cláusula 7B.8.1 (período, base, percentual e cálculo do seu valor), mas não vê dados de outros motoristas nem, antes da aprovação, percentuais e base de cálculo; (b) o cliente vê o selo ativo do motorista (categoria e validade) e o título de Motorista do Ano, mas não vê valores, indicadores nem advertências; e (c) a LUUKSE vê tudo, com registro de quem aprovou, pagou, advertiu ou cancelou. Para o Programa, a LUUKSE usa dados de viagens concluídas, avaliações dos clientes, horário de chegada nas viagens agendadas, recorrência de clientes, pedidos de motorista preferido, situação da habilitação e dos treinamentos da Academia LUUKSE e advertências de conduta, como avaliação de desempenho do parceiro. A apuração pode ser automatizada, mas a aprovação e o pagamento da premiação são decisões humanas (Tabela 8.6). O tratamento desses dados segue a Política de Privacidade.
+
+7B.12. **Natureza da premiação e direitos do motorista.** Para todos os efeitos:
+
+(a) a participação no Programa e o eventual reconhecimento financeiro não constituem promessa de contratação, garantia de volume de viagens ou remuneração fixa e, por si sós, não geram vínculo empregatício, societário ou de representação entre a LUUKSE e o motorista (cláusula 2.2). A premiação é eventual e vinculada ao encerramento de cada ciclo, aos critérios previamente divulgados e à aprovação da apuração correspondente. Esta disposição não impede a aplicação da legislação trabalhista ou de outras normas cogentes quando, na situação concreta, estiverem presentes os requisitos legais correspondentes, e a classificação jurídica da relação dependerá dos fatos efetivamente praticados, e não apenas da denominação atribuída pelas partes;
+
+(b) não há direito adquirido a premiações futuras nem à manutenção das regras do Programa, que podem ser alteradas para ciclos futuros nos termos da cláusula 7B.13, preservados os ciclos já encerrados, as premiações já aprovadas e os valores cuja exigibilidade já tenha sido comunicada ao motorista;
+
+(c) a premiação é submetida ao tratamento tributário aplicável à natureza do pagamento e à condição do beneficiário. A LUUKSE efetua as retenções, os recolhimentos e as obrigações acessórias que a legislação atribuir à fonte pagadora e fornece os comprovantes cabíveis (cláusula 6.8). O beneficiário responde pelas obrigações que a lei lhe atribuir, sem prejuízo da responsabilidade legal da LUUKSE por retenções, informações ou recolhimentos que lhe competirem;
+
+(d) aprovada a premiação, o pagamento é feito exclusivamente na subconta Asaas de titularidade do motorista beneficiário, cadastrada em seu próprio nome (cláusula 6.9), e não na subconta da frota, no prazo informado no aplicativo, [A CONFIRMAR COM O TIME TÉCNICO: o sistema deve conseguir separar a premiação do repasse à frota e impedir o crédito na subconta da frota] observadas as regras de liberação do Asaas (cláusula 7A.11). A LUUKSE não direciona a premiação a terceiro sem instrução expressa do próprio motorista e sem fundamento legal. Em caso de bloqueio, erro cadastral ou impossibilidade de crédito pelo Asaas, o valor permanece identificado como devido ao motorista e é disponibilizado após a regularização, sem transferência da titularidade econômica à frota;
+
+(e) o motorista vinculado a empresa de frota participa do Programa em nome próprio: a premiação, o selo e o título são sempre do motorista, e não da frota. A cláusula 6.2.3 não se aplica à premiação, e a frota não tem direito a ela nem pode receber, reter, descontar, compensar, bloquear, cobrar taxa ou exigir o repasse da premiação, ainda que o motorista esteja a ela vinculado ou que a parte das viagens ordinárias seja repassada à frota; e
+
+(f) a exibição do nome do motorista, do Selo de Excelência e do título de Motorista do Ano na Plataforma constitui divulgação funcional do reconhecimento e ocorre durante o período informado para o respectivo selo ou título. O uso da imagem, da voz, de depoimento ou da participação em cerimônia (inclusive a cerimônia anual de homenagem e os seus registros), fotografias, vídeos, redes sociais, publicidade ou materiais institucionais depende de autorização específica, destacada e facultativa, separada do aceite destes Termos e da participação no Programa. A recusa ou a revogação não impede a participação, o recebimento de prêmio ou a manutenção do título já obtido. A autorização indica as finalidades, os canais, o prazo e a possibilidade de revogação para usos futuros, e a revogação não exige a retirada imediata de materiais já publicados licitamente antes do pedido, mas impede novos usos, salvo obrigação legal ou impossibilidade técnica justificada. Permanecem preservados os direitos do titular previstos na LGPD.
+
+7B.13. **Alterações do Programa.** As regras desta Seção são as iniciais do Programa. A LUUKSE pode alterar, suspender ou encerrar o Programa para ciclos futuros, inclusive as categorias, os critérios, os pesos, os mínimos, os percentuais, o prazo do selo e os motivos de advertência, mediante aviso prévio aos motoristas pelo aplicativo. As mudanças valem apenas para ciclos ainda não iniciados, sem efeito retroativo, e não prejudicam ciclos já encerrados, premiações já aprovadas nem valores cuja exigibilidade já tenha sido comunicada ao motorista, salvo cancelamento nas hipóteses e com o procedimento da cláusula 7B.4, com aviso do motivo e oportunidade razoável de manifestação.
+
+7B.14. **Dúvidas e contestações.** O motorista pode pedir esclarecimentos sobre o Programa pelo aplicativo ou por contato@luukseapp.com. O pedido é analisado por uma pessoa da equipe LUUKSE e respondido conforme a cláusula 7A.10. A contestação da apuração e do valor da premiação segue o prazo e o procedimento da cláusula 7B.8.1, item (e), com revisão por uma pessoa.
+
+## **7C. Empresas parceiras e frotas**
+
+7C.1. **Definições.** Para os fins destes Termos, “empresa de frota” ou “frota” é a pessoa jurídica que se cadastra na LUUKSE para disponibilizar veículos, reunir motoristas ou ambos, para a prestação de transporte por meio da Plataforma, e “motorista vinculado” é o motorista parceiro ligado a uma frota. “Motorista autônomo” é o motorista parceiro que não tem vínculo com frota. Esta Seção trata das empresas de frota. Outras empresas parceiras, como estabelecimentos de experiências e campanhas divulgadas na Plataforma, regem-se pelas condições específicas informadas no Portal LuuksePartner ou acordadas por escrito com a LUUKSE.
+
+7C.2. **Cadastro e aprovação da frota.** A frota se cadastra informando dados da empresa (razão social, CNPJ, responsável, contato e endereço) e os documentos exigidos, e só passa a operar depois de aprovada pela LUUKSE, que pode recusar o cadastro ou pedir complementação, com a indicação do motivo. A conta da frota tem um responsável, definido pela LUUKSE, que concede as permissões da equipe da empresa no Portal. A frota responde pelos atos praticados por todos os usuários da sua conta e deve manter subconta própria no Asaas, aberta no nome da empresa (cláusula 6.9).
+
+7C.3. **Portal LuuksePartner.** O Portal LuuksePartner é a ferramenta web da frota para: (a) gerir os dados da empresa, a equipe e as permissões; (b) cadastrar e manter os veículos da frota; (c) acompanhar os motoristas vinculados, a situação cadastral e a validade dos documentos, sem acesso a dados pessoais sensíveis do motorista; (d) acompanhar as viagens e a agenda dos seus motoristas; (e) registrar ocorrências; e (f) enviar avisos aos motoristas vinculados. O Portal não despacha viagens, não altera preços, regras de oferta nem a divisão de valores, que seguem estes Termos, e não substitui o aplicativo do motorista.
+
+7C.4. **Vínculo entre motorista e frota.** O vínculo é criado, aprovado e encerrado conforme as regras a seguir:
+
+(a) Criação: a frota convida o motorista pelo Portal, por e-mail, e o motorista aceita o convite e conclui o seu cadastro. O vínculo só vale com motorista ativo e, para operar, o motorista precisa ser aprovado nos requisitos próprios da Seção 7A, sem qualquer dispensa em razão de pertencer a uma frota, e concluir a subconta no Asaas (cláusula 3.4).
+
+(b) Veículo: a frota vincula o motorista a um veículo da frota, e cada motorista pode estar vinculado a apenas um veículo por vez. O veículo da frota é cadastrado e alterado somente pela frota, e cada cadastro ou alteração fica sujeito à análise e à aprovação da LUUKSE. Veículo sem categoria definida ou não aprovado pela LUUKSE não recebe viagens.
+
+(c) Término: o vínculo termina por decisão da frota, por pedido do motorista, por encerramento ou suspensão da conta da frota ou do motorista nos termos da cláusula 5.3 e da Seção 7A, ou pelo fim do cadastro de qualquer das partes. Não é possível trocar ou desvincular o motorista ou o veículo enquanto houver viagem em andamento, que é concluída normalmente.
+
+(d) Efeitos do término: o motorista deixa de usar o veículo da frota e, se cumprir os requisitos da Seção 7A, pode continuar como motorista autônomo, com veículo próprio, ou vincular-se a outra frota. Os valores das viagens realizadas durante o vínculo seguem destinados à frota nos termos da cláusula 6.2.3, ainda que o vínculo termine antes da liberação do Asaas (cláusula 7A.11). Essa regra ressalva as hipóteses de fraude, ordem judicial, notificação válida do motorista, erro de vínculo e direitos já constituídos do motorista, que são apurados caso a caso.
+
+**Notificação válida do motorista.** Considera-se notificação válida a comunicação escrita do próprio motorista, feita pelo aplicativo ou por contato@luukseapp.com, que (i) identifique o motorista, a frota e o vínculo; (ii) informe o motivo (por exemplo, término do vínculo antes das viagens ou erro de vínculo); e (iii) indique ou anexe documentos ou informações que a sustentem (como prova do término do vínculo ou de falta de repasse). Recebida a notificação, a LUUKSE confirma o recebimento, comunica a frota e conclui a apuração em até **15 (quinze) dias corridos**, com decisão motivada comunicada às duas partes e possibilidade de pedido de revisão por uma pessoa da equipe. Durante a apuração: (A) valores já liberados à frota não são desfeitos pela LUUKSE; (B) valores ainda não liberados, relativos às viagens em discussão, ficam identificados e não são pagos a ninguém até a decisão; e (C) valores sujeitos a estorno ou chargeback seguem a cláusula 6.11. [A CONFIRMAR COM HELENA: definição de “notificação válida”, prazo de 15 dias corridos sugerido e tratamento dos valores liquidados, pendentes e sujeitos a chargeback.]
+
+7C.5. **Responsabilidades da frota.** Sem prejuízo da responsabilidade do próprio motorista, a frota é responsável, perante a LUUKSE, por:
+
+(a) documentos: manter válidos e atualizados os documentos exigidos dos seus motoristas e da empresa (cláusulas 7A.1 a 7A.4), avisar a LUUKSE de qualquer irregularidade e não permitir que opere motorista com documento vencido ou inválido;
+
+(b) veículos: manter os veículos da frota regulares, com CRLV em dia, dentro dos requisitos de idade e de características exigidos pela autoridade de trânsito e pelo município, na categoria correta, em bom estado, limpos e com manutenção em dia (cláusulas 7A.1 e 7A.5);
+
+(c) conduta: orientar os seus motoristas e zelar para que cumpram estes Termos, em especial as cláusulas 5.2, 7A.6 e 7A.9 (acessibilidade);
+
+(d) obrigações trabalhistas, previdenciárias e tributárias: a relação entre a frota e o motorista vinculado é exclusiva das duas partes. Entre a LUUKSE e a frota, a frota responde, na extensão prevista em lei, por eventual vínculo, pelos encargos e pela remuneração do motorista, com a remuneração do motorista que lhe é repassada (cláusula 6.2.3), e a LUUKSE não assume essas obrigações. Essa alocação vale entre a LUUKSE e a frota e não afasta a responsabilidade que a lei imponha diretamente à LUUKSE perante motoristas, clientes, autoridades ou terceiros, inclusive a prevista na cláusula 10.2, nem o direito de regresso da LUUKSE (cláusulas 7C.5.1 e 7C.5.2); e
+
+(e) seguro: manter o seguro de Acidentes Pessoais a Passageiros (APP) válido para cada motorista e veículo em operação, nos termos da cláusula 7A.3, além de qualquer outro seguro exigido por lei ou pelo município.
+
+7C.5.1. **Independência e limites.** A relação trabalhista, civil, comercial ou societária entre a frota e cada motorista vinculado é definida conforme os fatos efetivamente praticados e a legislação aplicável. A LUUKSE não dirige a prestação pessoal de serviços do motorista, não fixa a sua jornada, não garante remuneração mínima e não substitui a frota na contratação, na remuneração, na supervisão trabalhista ou na gestão de pessoal. As regras de segurança, acessibilidade, proteção do cliente, regularidade documental e qualidade da Plataforma são requisitos de uso e de segurança do serviço e não autorizam, por si sós, controle de jornada, comando direto ou ingerência na relação interna entre a frota e o motorista. Nada nesta cláusula exclui responsabilidade que a lei imponha diretamente à LUUKSE perante motoristas, clientes, autoridades ou terceiros.
+
+7C.5.2. **Direito de regresso.** [A CONFIRMAR COM HELENA: critérios de cálculo do prejuízo, prazos de pagamento e contestação, culpa concorrente e multas sem decisão definitiva.] A frota deve ressarcir a LUUKSE por perdas, danos, condenações, acordos previamente aprovados, multas, encargos, honorários e despesas razoáveis efetivamente suportados pela LUUKSE, quando decorrentes de ato ou omissão comprovadamente imputável à frota ou a seus empregados, prepostos ou subcontratados, inclusive quanto a obrigações trabalhistas, previdenciárias, fiscais, securitárias, de segurança e de acessibilidade. O ressarcimento não abrange valores decorrentes de ato exclusivo da LUUKSE, de culpa concorrente da LUUKSE ou de responsabilidade legal própria da LUUKSE. A LUUKSE comunica a reclamação em prazo razoável, fornece as informações disponíveis e permite a participação da frota na defesa, sem prejuízo de medidas urgentes, deveres legais e prazos processuais. Nenhum acordo que reconheça exclusivamente a responsabilidade da frota é celebrado sem a sua ciência e a oportunidade razoável de manifestação, salvo urgência justificada.
+
+7C.6. **Repasse, pagamentos e documentos fiscais.** Quando o motorista é vinculado a uma frota, a remuneração do motorista é repassada integralmente à frota, que é responsável por remunerá-lo (cláusula 6.2.3), e a frota informa ao motorista, de forma clara, os critérios e o prazo de repasse entre ambos. A frota recebe na sua subconta do Asaas, sujeita aos prazos, às tarifas e às demais regras do Asaas (cláusulas 6.9 e 7A.11), inclusive à antecipação opcional (cláusula 7A.11.1). A LUUKSE emite a NFS-e dos serviços de intermediação à frota, nos termos da cláusula 6.8, e a frota emite os próprios documentos fiscais da sua parte, conforme a legislação do seu município. A frota entrega ao motorista, a cada período de repasse, demonstrativo dos valores recebidos, dos descontos e das retenções legais aplicadas, e comprova à LUUKSE o repasse ao motorista quando solicitado em razão de reclamação do motorista, de ordem de autoridade ou de auditoria da LUUKSE. O motorista pode reclamar à LUUKSE sobre o repasse pelo aplicativo ou por contato@luukseapp.com, e a LUUKSE analisa a reclamação e pode adotar as medidas cabíveis em relação à frota, sem se tornar parte da relação entre a frota e o motorista (cláusula 7C.5.1). **A premiação financeira, o Selo de Excelência e o título de Motorista do Ano do Programa Excelência (Seção 7B) não integram o repasse à frota e não se regem por esta cláusula nem pela cláusula 6.2.3** (cláusula 7B.12, itens “d” e “e”).
+
+7C.7. **Suspensão do motorista e efeitos na frota.** A suspensão, o bloqueio ou o desligamento de um motorista vinculado, nos termos da cláusula 5.3 e da Seção 7A, impede apenas esse motorista de receber viagens, e não suspende os demais motoristas nem a frota, salvo se a causa envolver a própria frota, como falha nos documentos ou nos veículos da frota, fraude ou descumprimento destes Termos. A LUUKSE comunica à frota somente as informações operacionais estritamente necessárias para a gestão do vínculo, como: motorista liberado, não liberado, suspenso cautelarmente ou com documento pendente. A comunicação não inclui o conteúdo de certidões, o tipo de fato, o número de processo, a vítima, a acusação, a fonte detalhada ou qualquer conclusão sobre culpa, salvo obrigação legal ou ordem de autoridade competente (cláusula 7A.4). A frota deve utilizar a informação exclusivamente para a finalidade comunicada, restringir o acesso a pessoas autorizadas, com registro dos acessos, manter sigilo, adotar medidas de segurança, não divulgar nem reutilizar os dados para finalidade incompatível e eliminá-los quando cessar a necessidade e, em todo caso, quando o status informado deixar de vigorar, ressalvadas obrigações legais de guarda. O acesso da frota a essas informações é restrito, registrado e limitado no tempo. [A CONFIRMAR COM HELENA: se “documento pendente” deve ser informado à frota em todos os casos.] Qualquer incidente ou acesso indevido deve ser comunicado imediatamente à LUUKSE e tratado conforme a legislação aplicável e a Política de Privacidade. Na hipótese de suspensão ou encerramento da conta da frota, aplicam-se à frota, no que couber, os avisos e prazos de manifestação da cláusula 5.3, e os motoristas vinculados deixam de usar os veículos da frota, podendo seguir como autônomos, se cumprirem os requisitos da Seção 7A.
+
+7C.8. **Sem exclusividade.** Não há exclusividade entre a LUUKSE e a frota, nem entre a LUUKSE e o motorista vinculado, salvo se acordada por escrito. A LUUKSE não garante volume mínimo de viagens ou de ganhos à frota nem aos seus motoristas. Os motoristas vinculados continuam sendo parceiros independentes nos termos da cláusula 2.2.
+
+7C.9. **Programa Excelência LUUKSE.** O Programa Excelência LUUKSE (Seção 7B) aplica-se ao motorista vinculado, e a premiação e o reconhecimento pertencem sempre ao motorista, e não à frota (cláusula 7B.12, item “e”).
+
+7C.10. **Foro.** Aplica-se à frota o foro previsto na cláusula 13.3.
+
+7C.11. **Alterações.** As regras desta Seção podem ser alteradas nos termos da cláusula 12.1.
+
+## 8\. Luxia e decisões automatizadas
+
+8.1. A **Luxia** é uma assistente de inteligência artificial que ajuda com dúvidas, suporte, preferências e personalização.
+
+8.2. **A Luxia pode errar.** Confirme valores, horários e status de pagamento nas telas oficiais do app ou com o atendimento. Se uma informação errada da Luxia causar prejuízo, a LUUKSE responde nos termos do CDC.
+
+8.3. A Luxia não presta aconselhamento jurídico, financeiro, médico ou profissional.
+
+8.4. **A Luxia nunca pede senha, código de segurança, número completo do cartão ou códigos de verificação.** Se alguém pedir isso em nome da LUUKSE, não responda e avise contato@luukseapp.com.
+
+8.5. A Luxia não altera valores ou repasses, não aprova reembolsos definitivos e não conclui transações sozinha.
+
+8.6. **Decisões automatizadas.** A Plataforma distingue três situações: (a) **decisão automatizada**, tomada exclusivamente por sistema; (b) **apoio automatizado**, em que o sistema aplica uma medida provisória ou gera um alerta, mas a decisão final é de uma pessoa; e (c) **decisão humana**, tomada por pessoa da equipe LUUKSE.
+
+**Tabela 8.6 — Tratamento automatizado na Plataforma**
+
+| Situação | Tipo | Critério geral | Efeito |
+| :---- | :---- | :---- | :---- |
+| Oferta da viagem ao motorista | Decisão automatizada | Proximidade do embarque, disponibilidade e categoria do veículo | Ordem de quem recebe a oferta (20 segundos para responder, depois passa ao próximo) |
+| Preço da viagem | Decisão automatizada | Tarifa base, distância e tempo estimados, categoria e plano | Valor mostrado antes da confirmação |
+| Elegibilidade do motorista | Decisão automatizada (liberação ou pausa); a reprovação e o desligamento são decisão humana | Documentos válidos, subconta de recebimento ativa, verificação concluída | Liberação ou pausa no recebimento de viagens |
+| Antifraude em pagamentos | Apoio automatizado | Sinais de risco da transação analisados pela LUUKSE e pelo Asaas | Pedido de outro meio de pagamento ou retenção para análise |
+| Bloqueio preventivo de conta | Apoio automatizado (medida provisória); a decisão final é humana | Documento vencido, falhas repetidas de biometria, alertas de segurança | Pausa preventiva até análise humana |
+| Apuração do Programa Excelência | Decisão automatizada (apuração, ranking e entrega do selo); a aprovação e o pagamento da premiação, as advertências e o cancelamento de selos ou premiações são decisão humana | Critérios, pesos e métricas divulgados (cláusula 7B) | Posição no ranking e selo; premiação “em análise” até a aprovação por uma pessoa; contestação e revisão humana (cláusula 7B.8.1) |
+
+Nenhum bloqueio definitivo de conta, desligamento de motorista, recusa definitiva de reembolso ou aprovação e pagamento de premiação é feito só por sistema: sempre há decisão de uma pessoa. Você pode pedir a **revisão** de decisões tomadas unicamente com base em tratamento automatizado que afetem seus interesses e informações sobre os critérios usados, pelo e-mail **privacidade@luukseapp.com** (art. 20 da LGPD). A revisão é feita por uma pessoa da equipe LUUKSE. Respondemos em até 15 dias, **prazo operacional adotado pela LUUKSE**, sem prejuízo de prazo diverso que a legislação ou a ANPD venha a fixar. Detalhes do tratamento de dados estão na Política de Privacidade.
+
+## 9\. Propriedade intelectual
+
+9.1. A marca LUUKSE, a Luxia, logotipos, layout, textos e software pertencem à LUUKSE ou a seus licenciantes.
+
+9.2. Você recebe licença limitada, pessoal, não exclusiva, intransferível e revogável para usar a Plataforma conforme estes Termos. É proibido copiar, modificar, fazer engenharia reversa, extrair dados de forma automatizada ou explorar a Plataforma comercialmente sem autorização.
+
+## 10\. Responsabilidades
+
+10.1. A LUUKSE trabalha para manter a Plataforma disponível e segura. Interrupções por manutenção programada são avisadas com antecedência no app.
+
+10.2. A LUUKSE responde perante o cliente nos termos do CDC e da legislação de transporte, inclusive por falhas na seleção e verificação de motoristas, na intermediação, nas informações prestadas e nas medidas de segurança da Plataforma. A LUUKSE só deixa de responder nas hipóteses que a própria lei prevê, como culpa exclusiva do consumidor ou de terceiro sem relação com o serviço (art. 14, § 3º, do CDC).
+
+10.3. O usuário responde pelas informações que fornece e pelo uso que faz da Plataforma.
+
+## 11\. Privacidade
+
+11.1. O tratamento de dados pessoais segue a **Política de Privacidade da LUUKSE**, documento separado, disponível em luukseapp.com e no aplicativo.
+
+## 12\. Alterações destes Termos
+
+12.1. Mudanças relevantes são avisadas pelo app e por e-mail com pelo menos **15 dias** de antecedência e valem só para viagens e contratações feitas após a vigência. Se a mudança afetar direitos ou obrigações principais (preço, divisão de valores, cancelamento), pedimos novo aceite. O histórico de versões aparece no topo, e as versões anteriores ficam disponíveis em contato@luukseapp.com.
+
+## 13\. Lei aplicável e foro
+
+13.1. Estes Termos são regidos pelas leis do Brasil.
+
+13.2. Para o **consumidor**, vale o **foro do seu domicílio** (art. 101, I, do CDC), ou outro que a lei lhe assegure, sem prejuízo de solução amigável pelo atendimento ou pelo consumidor.gov.br.
+
+13.3. Para **empresas parceiras e motoristas pessoa jurídica**, vale o foro da **Comarca de Belo Horizonte/MG**. Para o **motorista pessoa física ou microempreendedor individual (MEI)**, fica ressalvado o foro legalmente competente, inclusive o do seu domicílio, quando a lei assim determinar, e a eleição de foro não se aplica se for considerada abusiva ou impedir o seu acesso à Justiça.
+
+## 14\. Contato
+
+LUUKSE INOVA SIMPLES (I.S.) — CNPJ 69.693.114/0001-60 Rua Rio Grande do Norte, 1436, sala 813, Savassi, Belo Horizonte/MG, CEP 30130-138 Telefone: (31) 3181-4630 — E-mail: **contato@luukseapp.com** — Site: **luukseapp.com** Encarregada (DPO): **Ítala Angelina Santos do Rosario** — **privacidade@luukseapp.com**
+
+---
+
+## ANEXO — Políticas Complementares
+
+**Regra geral:** taxas, valores, prazos e tolerâncias deste Anexo aparecem no aplicativo **antes da confirmação** e valem conforme exibidos naquele momento. Nenhuma taxa não informada antes é cobrada. Mudanças valem apenas para viagens futuras.
+
+### A.1. Cancelamento pelo cliente
+
+* **Viagem imediata:** grátis até 2 minutos após o aceite; depois, taxa de R\$ 7,00, com a destinação da cláusula 7.5 (cláusula 7.1).
+* **Viagem agendada:** percentual do valor da viagem, conforme o estágio e a antecedência (A.7).
+
+### A.2. Cancelamento pelo motorista
+
+* O motorista deve evitar cancelar viagens aceitas, salvo motivo justificado (segurança, problema no veículo).  
+* O cliente não paga taxa e recebe **reembolso integral**. A viagem é encerrada, e o cliente pode pedir outra.  
+* Cancelamentos frequentes sem justificativa (mais de 3 em 7 dias) podem levar a advertência e às medidas da cláusula 5.3.
+
+### A.3. Tempo de espera
+
+* Após a chegada do motorista ao local de embarque, há espera gratuita de **5 minutos** (cláusula 7.1). Nas viagens com necessidade de acessibilidade, informada previamente ou identificada no atendimento, a espera gratuita é de **no mínimo 10 minutos**, e o tempo do embarque assistido, da comunicação acessível e da acomodação do passageiro não conta como espera nem gera taxa de cliente ausente. Depois desse tempo, aplica-se a regra de cliente ausente (A.4).
+
+### A.4. Cliente ausente (no-show)
+
+* Aplica-se a regra única da cláusula 7.1: findos os 5 minutos de espera gratuita (no mínimo 10 minutos nas viagens com necessidade de acessibilidade) e somente depois de o motorista registrar a chegada no aplicativo e tentar contato com o cliente por canal acessível disponível no aplicativo, preferencialmente por mensagem no chat da viagem, sem que o cliente compareça ou responda, cobra-se a taxa de cliente ausente de R\$ 7,00, com a destinação da cláusula 7.5. O cliente pode contestar a cobrança pelo atendimento e, nas viagens com necessidade de acessibilidade, a LUUKSE dispensa a cobrança quando o atraso decorrer ou for agravado por essa necessidade, pelo embarque assistido ou por falha da Plataforma, e paga ao motorista que tiver cumprido o procedimento o mesmo valor que ele receberia se a taxa tivesse sido cobrada (R\$ 7,00 nas viagens imediatas e o mesmo percentual do estágio registrado nas viagens agendadas), conforme a cláusula 7.1. Nas viagens agendadas, a cobrança de 50% (A.7, item f) segue o mesmo procedimento de chegada, espera e tentativa de contato.
+
+### A.5. Reembolsos e contestações
+
+* Pedidos pelo app ou contato@luukseapp.com, analisados por uma pessoa. Confirmamos o recebimento imediatamente e respondemos em até 5 dias. Estorno devido é feito pelo mesmo meio de pagamento; o prazo de crédito depende do banco ou emissor do cartão.  
+* Os direitos do CDC, incluindo o arrependimento, são sempre preservados.
+
+### A.6. Falhas da plataforma
+
+* Se uma falha da Plataforma impedir ou prejudicar a viagem, ou gerar cobrança indevida, o cliente não paga taxas ligadas à falha, e valores cobrados indevidamente são devolvidos integralmente.
+
+### A.7. Viagens agendadas e motorista dedicado
+
+* **Alcance:** esta regra vale **somente para viagens agendadas**. A taxa de cancelamento de viagem imediata permanece em R\$ 7,00 (cláusula 7.1).
+* **Base de cálculo:** o valor da viagem agendada exibido ao cliente antes da confirmação, já aplicados os descontos informados ao cliente e sem incluir serviços não prestados. [A CONFIRMAR COM ANGEL E O FINANCEIRO: base de incidência do percentual.]
+* **Taxas por antecedência e estágio.** A antecedência é contada entre o registro do cancelamento na Plataforma e o horário marcado: (a) com **mais de 24 horas**: gratuito; (b) com **mais de 12 horas e até 24 horas** (24 horas exatas incluídas): **10%**; (c) com **mais de 4 horas e até 12 horas** (12 horas exatas incluídas): **15%**; (d) com **4 horas ou menos** (4 horas exatas incluídas), antes de o motorista iniciar o deslocamento para o embarque: **20%**; (e) com o motorista **a caminho**, mas ainda sem ter chegado ao local de embarque: **30%**; e (f) com o motorista **no local de embarque**, tendo registrado a chegada no aplicativo e cumprido o tempo de espera aplicável (cláusula 7.1) sem que o cliente compareça, e **desde que também tenha feito a tentativa de contato** exigida na cláusula 7.1: **50%**.
+* **Sem acumulação:** quando mais de uma hipótese puder ser aplicada, prevalecerá a hipótese correspondente ao **estágio operacional mais avançado efetivamente registrado na Plataforma**, sem acumulação de taxas.
+* **Quando não há taxa:** a taxa não é cobrada quando o cancelamento ou a ausência decorrer de falha da Plataforma, de atraso ou cancelamento do motorista, de indisponibilidade causada pela LUUKSE ou de outra hipótese imputável à LUUKSE ou ao motorista, nem nas situações de acessibilidade previstas na cláusula 7.1.
+* **Destino da taxa:** a remuneração do motorista segue a política de repasse vigente da LUUKSE, que pode ser alterada (cláusula 7.5).
+* **Contestação:** o cliente pode contestar a cobrança pelo aplicativo ou pelos canais de atendimento, e a contestação é analisada por uma pessoa (Anexo A.5).
+* **Transparência:** os percentuais, os prazos e as condições aplicáveis aparecem ao cliente **antes da confirmação** e **não podem ser alterados para viagens já contratadas** (cláusula 7.3).
+* **Exemplo:** viagem agendada de R\$ 100,00 cancelada com 6 horas de antecedência: taxa de 15%, ou seja, R\$ 15,00. Se o motorista já estiver a caminho no momento do cancelamento, a taxa é de 30%, ou R\$ 30,00, e não se somam as faixas anteriores.
+* Se a LUUKSE não conseguir atender uma viagem agendada confirmada, avisa o cliente o quanto antes e não cobra nada pela viagem não realizada, com reembolso integral do que já foi pago.
