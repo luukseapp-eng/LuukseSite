@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom'
 import { useReveal } from '../../hooks/useReveal'
 import styles from './Excelencia.module.css'
 
@@ -15,8 +16,12 @@ const badges = [
     text: 'Respeito ao tempo do passageiro como compromisso, do encontro ao desembarque.',
   },
   {
-    title: 'Fidelidade',
-    text: 'Trajetória de quem permanece alinhado aos valores LUUKSE e à confiança construída no dia a dia.',
+    title: 'Motorista Fidelidade',
+    text: 'Trajetória de quem faz o cliente voltar, pela confiança construída no dia a dia.',
+  },
+  {
+    title: 'Excelência Profissional',
+    text: 'Padrão LUUKSE cumprido com consistência: nota, habilitação e treinamentos em dia.',
   },
 ]
 
@@ -28,11 +33,14 @@ export default function Excelencia() {
       <div className="container">
         <div className={`${styles.intro} reveal`}>
           <span className="section-label">Programa Excelência</span>
-          <h2>Reconhecimento, não ranking.</h2>
+          <h2>Reconhecimento que vai além do volume.</h2>
           <p>
             O Programa Excelência celebra quem sustenta o padrão LUUKSE. Distinções que reconhecem
-            conduta e consistência, sem transformar o cuidado em competição.
+            qualidade, conduta e consistência, não apenas o número de viagens.
           </p>
+          <Link to="/excelencia" className="btn btn-ghost">
+            Conheça o Programa
+          </Link>
         </div>
 
         <ul className={styles.grid}>

@@ -26,7 +26,8 @@ export default function SejaMotorista() {
       </ul>
       <p>
         Conheça também a <Link to="/#academia">Academia LUUKSE</Link> e o{' '}
-        <Link to="/#excelencia">Programa Excelência</Link>.
+        <Link to="/excelencia">Programa Excelência</Link>, que reconhece os motoristas com selos, premiação
+        financeira e o título de Motoristas do Ano.
       </p>
 
       {sent ? (
