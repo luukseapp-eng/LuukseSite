@@ -8,7 +8,7 @@
 export const SOCIAL = {
   instagram: 'https://www.instagram.com/luukseapp',
   facebook: 'https://www.facebook.com/share/1CjQoamQJf/',
-  x: '',
+  x: 'https://x.com/Luukseapp',
   whatsapp: '',
 } as const
 
