@@ -4,7 +4,7 @@
 
 Como a LUUKSE trata dados pessoais com respeito, segurança e transparência.
 
-**Versão 7.4 — Data: 30/10/2026 — Vigência: a partir da publicação na Plataforma**
+**Versão 7.6 — Data: 30/10/2026 — Vigência: a partir da publicação na Plataforma**
 
 **Histórico de versões**
 
@@ -12,6 +12,8 @@ Como a LUUKSE trata dados pessoais com respeito, segurança e transparência.
 |----|----|----|
 | 7.3 | 23/10/2026 | Versão anterior. |
 | 7.4 | 30/10/2026 | Programa Excelência (Seções 3.5, 4.1, 7.7, 9.3 e 10.4); informações operacionais compartilhadas com a frota (Seção 5.4); decisão automatizada e decisão humana na apuração. |
+| 7.5 | 30/10/2026 | Sigilo dos motoristas e das frotas sobre dados do cliente (Seção 11.3). |
+| 7.6 | 30/10/2026 | Revisão jurídica: bases legais vinculadas a cada finalidade e ao tipo de dado, sem legítimo interesse para dados sensíveis e com biometria no art. 11 da LGPD (Seção 4); prazos de guarda por categoria, sem prazo geral de cinco anos (Seção 9); Programa Excelência com ciclos contados da data de início das operações reais (Termos, cláusula 7B.4); exceção de segurança no sigilo do cliente (Seção 11.3). |
 
 ## 1. Apresentação
 
@@ -93,7 +95,7 @@ Como a LUUKSE trata dados pessoais com respeito, segurança e transparência.
 3.5. **Programa Excelência (motoristas).** Se você é motorista, tratamos dados das suas viagens e do seu desempenho para apurar o Programa Excelência (ranking, selos, títulos e premiações), conforme os Termos de Uso (cláusula 7B).
 
 - **Quais dados:** dados de viagens e de desempenho (avaliações, pontualidade, cancelamentos, ocorrências e advertências), posição no ranking, selos e títulos, memória de cálculo da premiação e dados de pagamento da premiação (informados ao Asaas). O conteúdo de certidões de antecedentes **nunca** entra no Programa Excelência nem é compartilhado com a frota.
-- **Finalidades e bases legais:** [A CONFIRMAR COM HELENA: bases legais sugeridas] apurar indicadores, ranking, selo, título e premiação, e pagar a premiação aprovada (execução de contrato, art. 7º, V); prevenir fraudes e inconsistências e auditar a apuração (legítimo interesse, art. 7º, IX, com teste de balanceamento); cumprir obrigações fiscais sobre o pagamento (obrigação legal, art. 7º, II). Imagem, voz e depoimento só são usados com **autorização específica e facultativa**, revogável a qualquer momento, e não são condição para participar ou receber a premiação (consentimento, art. 7º, I). A publicação do nome, do selo e do título segue o que está previsto nos Termos de Uso (cláusula 7B.12).
+- **Finalidades e bases legais:** apurar indicadores, ranking, selo, título e premiação, e pagar a premiação aprovada (execução de contrato, art. 7º, V); prevenir fraudes e inconsistências e auditar a apuração (legítimo interesse, art. 7º, IX, com teste de balanceamento); cumprir obrigações fiscais sobre o pagamento (obrigação legal, art. 7º, II). Imagem, voz e depoimento só são usados com **autorização específica e facultativa**, revogável a qualquer momento, e não são condição para participar ou receber a premiação (consentimento, art. 7º, I). A publicação do nome, do selo e do título segue o que está previsto nos Termos de Uso (cláusula 7B.12).
 - **Com quem compartilhamos:** com prestadores que atuam como operadores da LUUKSE (Seção 5.5) e com o Asaas para o pagamento (Seção 5.3). Se você dirige por uma **empresa parceira de frota**, a frota recebe só as informações **estritamente necessárias à operação** (por exemplo, a situação operacional do motorista e o desempenho nas viagens da frota), como descrito na Seção 5.4.
 - **Decisão automatizada e decisão humana:** a **apuração** dos indicadores e do ranking pode ser feita automaticamente pelo sistema. A **aprovação** da premiação, o **pagamento**, a decisão sobre **advertências** e o cancelamento de selos ou premiações são sempre decididos por **uma pessoa da equipe da LUUKSE**. Você pode contestar o resultado e pedir **revisão humana** (Seções 7.7 e 10.4).
 - **Por quanto tempo guardamos:** pelo período necessário às finalidades acima e aos prazos da Tabela 9.3.
@@ -101,9 +103,11 @@ Como a LUUKSE trata dados pessoais com respeito, segurança e transparência.
 
 ## 4. Finalidades e bases legais
 
-4.1. **Tabela de finalidades e bases legais.** Cada finalidade de tratamento tem a base legal indicada abaixo.
+4.1. **Bases legais.** As bases legais indicadas nesta Política correspondem à finalidade específica e ao tipo de dado tratado. A LUUKSE trata dados pessoais comuns, conforme o caso, para execução de contrato, cumprimento de obrigação legal ou regulatória, exercício regular de direitos, proteção da vida ou incolumidade física, consentimento ou legítimo interesse, desde que demonstrados finalidade, necessidade, proporcionalidade, transparência e salvaguardas. **O legítimo interesse não é utilizado para dados pessoais sensíveis.** Dados biométricos são tratados somente nas hipóteses do art. 11 da LGPD, com medidas reforçadas de segurança, acesso restrito e retenção limitada. A base legal é reavaliada quando houver mudança de finalidade, categoria de dado, risco ou operação.
 
-**Tabela 4.1 — Finalidades e bases legais**
+4.2. **Tabela de finalidades e bases legais.** Cada finalidade de tratamento tem a base legal indicada abaixo.
+
+**Tabela 4.2 — Finalidades e bases legais**
 
 | Finalidade | Base legal (LGPD) |
 |----|----|
@@ -198,7 +202,7 @@ A LUUKSE não vende dados pessoais.
 
 ## 9. Por quanto tempo guardamos os dados
 
-9.1. Cada prazo da tabela da Seção 9.3 tem uma justificativa. Ao fim do prazo, os dados são **eliminados** ou **anonimizados**, como indicado. Se houver processo judicial ou administrativo em curso, os dados necessários ficam guardados até o fim do processo (art. 7º, VI).
+9.1. Cada categoria de dado é mantida somente pelo período necessário à finalidade informada, ao cumprimento de obrigação legal ou regulatória, ao exercício regular de direitos ou à apuração de incidente, reclamação, auditoria ou processo específico. O prazo de cinco anos é usado apenas quando há justificativa jurídica e operacional documentada para a categoria correspondente, e **não é prazo geral de retenção**. Encerrada a finalidade e inexistindo hipótese legal de conservação, os dados são eliminados ou anonimizados, com limitação de acesso durante eventual retenção. Registros de acesso, incidentes, documentos fiscais, contábeis, financeiros, biométricos, de viagens e de antecedentes observam os prazos próprios da legislação aplicável e da necessidade comprovada. Cada prazo da tabela da Seção 9.3 tem uma justificativa. Ao fim do prazo, os dados são **eliminados** ou **anonimizados**, como indicado. Se houver processo judicial ou administrativo em curso, os dados necessários ficam guardados até o fim do processo (art. 7º, VI).
 
 9.2. O acesso a cada categoria é limitado às funções que precisam dele.
 
@@ -221,7 +225,7 @@ A LUUKSE não vende dados pessoais.
 | Metadados da verificação de antecedentes (tipo de certidão, órgão emissor, datas, código de autenticação ou hash, resultado e fundamentos resumidos) | Enquanto ativo + 5 anos; a certidão não é guardada e é eliminada logo após a análise | Prova de que a verificação foi feita (art. 7º, VI, da LGPD) e minimização (art. 6º, III) | Eliminação |
 | Biometria: foto de referência e template | Após a ativação, enquanto ativo; deverão ser eliminados em até 30 dias após o fim do cadastro | Necessária só enquanto houver acesso ao app | Eliminação |
 | Biometria e checagem de início de turno: selfie e fotos do carro | Só as da checagem aprovada mais recente, até a próxima checagem aprovada; foto reprovada não é guardada; demais prazos na Seção 3.4 | Confirmar a identidade do motorista e permitir revisão humana de casos analisados | Eliminação (fica só o registro da checagem, por 12 meses) |
-| Programa Excelência: dados de apuração, ranking e memória de cálculo da premiação | 5 anos contados do encerramento do ciclo [A CONFIRMAR COM HELENA: prazo sugerido] | Exercício regular de direitos (art. 7º, VI, da LGPD): permitir contestação, auditoria da apuração e defesa em reclamações sobre o ciclo | Eliminação ou anonimização |
+| Programa Excelência: dados de apuração, ranking e memória de cálculo da premiação | 5 anos contados do encerramento do ciclo | Exercício regular de direitos (art. 7º, VI, da LGPD): permitir contestação, auditoria da apuração e defesa em reclamações sobre o ciclo | Eliminação ou anonimização |
 | Conversas com a Luxia | 12 meses | Atendimento de reclamações sobre o que foi informado | Eliminação |
 | Registros de segurança e incidentes | 5 anos | Resolução CD/ANPD nº 15/2024, art. 10 | Eliminação |
 | Marketing | Até a revogação do consentimento | Consentimento | Eliminação |
@@ -252,6 +256,8 @@ Os pedidos são gratuitos.
 
 11.2. Nenhum sistema é totalmente imune a riscos. Proteja suas credenciais.
 
+11.3. **Sigilo dos motoristas e das frotas.** Os motoristas e as empresas de frota assumem, nos Termos de Uso (cláusula 7A.12), o dever de **não gravar, filmar, fotografar nem divulgar** dados do cliente ou da viagem e de usar o contato e o endereço do cliente somente para a viagem, ressalvadas as exceções de segurança previstas na cláusula 7A.12.4 dos Termos (por exemplo, risco concreto, pedido de socorro ou prova de crime, com acesso restrito). Se você suspeitar de uma violação, avise pelo Suporte ou por privacidade@luukseapp.com.
+
 ## 12. Incidentes de segurança
 
 12.1. Procedimento, segundo o art. 48 da LGPD e a Resolução CD/ANPD nº 15/2024:
@@ -280,4 +286,4 @@ Telefone: (31) 3181-4630
 Encarregado (DPO): **Ítala Angelina Santos do Rosario** — **privacidade@luukseapp.com**  
 Site: **luukseapp.com**
 
-Última atualização: 30 de outubro de 2026 (versão 7.4).
+Última atualização: 30 de outubro de 2026 (versão 7.5).

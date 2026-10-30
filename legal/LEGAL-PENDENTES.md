@@ -1,23 +1,19 @@
 # Termos e Política — pendências antes de publicar
 
-Os textos em `legal/*.md` são a fonte (com marcas `[A CONFIRMAR ...]`). As páginas do site usam
-`src/content/*.html`, geradas dessas fontes **sem** as marcas (o texto sugerido já está no HTML).
-Antes de fazer merge/publicar, resolver cada marca abaixo e regenerar o HTML.
+Os textos em `legal/*.md` são a fonte (com marcas `[A CONFIRMAR ...]` e `[REVISAR COM ...]`). As páginas do site usam
+`src/content/*.html`, geradas dessas fontes **sem** as marcas.
 
-Regerar (pandoc, gfm -> html): remover as marcas `[A CONFIRMAR ...]` e converter `legal/termos.md` e
-`legal/privacidade.md` (sem o cabeçalho/título) para `src/content/termos.html` e `privacidade.html`.
+Regerar (pandoc, gfm -> html): remover as marcas e converter `legal/termos.md` e `legal/privacidade.md`
+(sem o cabeçalho/título) para `src/content/termos.html` e `privacidade.html`.
 
-Publicado em 30/10/2026 com ok da Angel. As marcas abaixo NÃO aparecem nas páginas públicas (o HTML usa o texto sugerido). Helena ainda deve validar cada item; ao resolver, ajustar o texto e regenerar o HTML.
-- [A CONFIRMAR COM HELENA: definir quem suporta a tarifa da cobrança perante o motorista, sem revelar percentuais.]
-- [A CONFIRMAR COM HELENA: definir se e como as alterações da política de repasse são comunicadas ao motorista e a partir de quando valem.]
-- [A CONFIRMAR COM HELENA: revisar a redação fiscal desta cláusula e da 6.8 sem os termos "comissão" e "percentual", preservando a segregação de valores de terceiros.]
-- [A CONFIRMAR COM HELENA: manter 01/01/2027 somente se o Programa estiver ativo no 4º trimestre de 2026 e se os critérios do ciclo em curso já estiverem divulgados no aplicativo na data da publicação.]
-- [A CONFIRMAR COM HELENA: prazo objetivo sugerido, em lugar de “prazo razoável”.]
-- [A CONFIRMAR COM ANGEL E HELENA: prazos de 30 e 15 dias sugeridos]
-- [A CONFIRMAR COM O TIME TÉCNICO: o sistema deve conseguir separar a premiação do repasse à frota e impedir o crédito na subconta da frota]
-- [A CONFIRMAR COM HELENA: definição de “notificação válida”, prazo de 15 dias corridos sugerido e tratamento dos valores liquidados, pendentes e sujeitos a chargeback.]
-- [A CONFIRMAR COM HELENA: critérios de cálculo do prejuízo, prazos de pagamento e contestação, culpa concorrente e multas sem decisão definitiva.]
-- [A CONFIRMAR COM HELENA: se “documento pendente” deve ser informado à frota em todos os casos.]
-- [A CONFIRMAR COM ANGEL E O FINANCEIRO: base de incidência do percentual.]
-- [A CONFIRMAR COM HELENA: bases legais sugeridas]
-- [A CONFIRMAR COM HELENA: prazo sugerido]
+Versão 7.6 (30/10/2026): aplicado o parecer da Helena (itens 1 a 10) e a nova regra do Programa Excelência
+(início na data das operações reais; ciclos contados dessa data). Marcas que continuam abertas:
+- [REVISAR COM CONTADORA] cláusulas 6.7 e 6.8 (redação fiscal; ISS, base da NFS-e e documentos fiscais).
+- [A CONFIRMAR COM ANGEL E HELENA: prazos de 30 e 15 dias sugeridos] cláusula 7B.8.1, item (e) (contestação da premiação).
+- [A CONFIRMAR COM O TIME TÉCNICO: separar a premiação do repasse à frota] cláusula 7B.12, item (d).
+- [A CONFIRMAR COM ANGEL E O FINANCEIRO: base de incidência do percentual] Anexo A.7 (cancelamento de viagem agendada).
+
+Outras conferências pendentes (sem marca no texto):
+- Conferir a referência ao art. 11-B da Lei 12.587/2012 para cada finalidade e categoria documental (Política, Seção 4).
+- Divulgar os critérios do primeiro ciclo no aplicativo até a data de início das operações.
+- Confirmar que o aplicativo mostra a remuneração e a tarifa aplicável antes do cadastro e em cada viagem (cláusula 6.4).
