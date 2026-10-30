@@ -67,5 +67,5 @@ Imagens de referência em `public/images/v2/` (hero branded, cenas noturnas, int
 ## Formulários (contato, motorista, parceria, frota)
 
 Todos usam `src/lib/leads.ts`. Com `VITE_LEADS_ENDPOINT` (URL pública da API que grava o lead) o site envia um POST JSON
-`{kind, source, page, fields}`. Sem a variável, abre o e-mail do visitante preenchido para `contato@luukseapp.com`.
+`{kind, source, page, fields}`. No deploy (`.github/workflows/pages.yml`) ela aponta para `https://luukse-api.onrender.com/api/v1/leads` (API LUUKSE: grava o lead e avisa contato@luukseapp.com). Sem a variável, abre o e-mail do visitante preenchido para `contato@luukseapp.com`.
 Redes sociais do rodapé: preencher `src/config/social.ts` (vazio = ícone "em breve").

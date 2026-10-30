@@ -26,6 +26,9 @@ jobs:
           cache: npm
       - run: npm ci
       - run: npm run build
+        env:
+          # Endpoint público (não é segredo) que recebe os formulários e avisa a Marcele por e-mail.
+          VITE_LEADS_ENDPOINT: https://luukse-api.onrender.com/api/v1/leads
       - run: |
           cp dist/index.html dist/404.html
           for r in sobre termos privacidade cookies contato seja-motorista seja-parceiro excelencia frotas; do mkdir -p dist/$r && cp dist/index.html dist/$r/index.html; done

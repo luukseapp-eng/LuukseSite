@@ -6,7 +6,7 @@
 //   x        : 'https://x.com/<perfil>'
 //   whatsapp : 'https://wa.me/55DDDNUMERO'   (somente dígitos, com 55 + DDD)
 export const SOCIAL = {
-  instagram: '',
+  instagram: 'https://www.instagram.com/luukseapp',
   facebook: '',
   x: '',
   whatsapp: '',
