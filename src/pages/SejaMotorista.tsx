@@ -1,16 +1,11 @@
-import { useState } from 'react'
-import type { FormEvent } from 'react'
 import { Link } from 'react-router-dom'
 import PageShell from './PageShell'
 import styles from './FormPages.module.css'
+import LeadFeedback from '../components/LeadFeedback'
+import { useLeadForm } from '../lib/leads'
 
 export default function SejaMotorista() {
-  const [sent, setSent] = useState(false)
-
-  function onSubmit(e: FormEvent<HTMLFormElement>) {
-    e.preventDefault()
-    setSent(true)
-  }
+  const { status, onSubmit, sent } = useLeadForm('motorista')
 
   return (
     <PageShell
@@ -31,14 +26,12 @@ export default function SejaMotorista() {
       </p>
 
       {sent ? (
-        <div className={styles.success} role="status">
-          <h2>Interesse recebido.</h2>
-          <p>Entraremos em contato com os próximos passos do processo.</p>
-        </div>
+        <LeadFeedback status={status} title="Interesse recebido." text="Entraremos em contato com os próximos passos do processo." />
       ) : (
         <>
           <h2>Manifeste interesse</h2>
           <form className={styles.form} onSubmit={onSubmit}>
+<input name="website" className={styles.hp} type="text" tabIndex={-1} autoComplete="off" aria-hidden="true" />
             <label>
               Nome completo
               <input name="nome" type="text" required autoComplete="name" />
@@ -59,9 +52,14 @@ export default function SejaMotorista() {
               Experiência relevante
               <textarea name="experiencia" rows={4} placeholder="Conte brevemente sua trajetória" />
             </label>
-            <button type="submit" className="btn btn-primary">
+            <button type="submit" className="btn btn-primary" disabled={status === 'sending'}>
               Enviar interesse
             </button>
+          {status === 'error' && (
+            <p className={styles.error} role="alert">
+              Não foi possível enviar agora. Tente novamente ou escreva para contato@luukseapp.com.
+            </p>
+          )}
           </form>
         </>
       )}

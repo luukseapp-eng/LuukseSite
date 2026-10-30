@@ -11,14 +11,19 @@ import Contato from './pages/Contato'
 import SejaMotorista from './pages/SejaMotorista'
 import SejaParceiro from './pages/SejaParceiro'
 import Excelencia from './pages/Excelencia'
+import Frotas from './pages/Frotas'
 
 function ScrollToTop() {
-  const { pathname } = useLocation()
+  const { pathname, hash } = useLocation()
   useEffect(() => {
-    if (!window.location.hash) {
+    if (!hash) {
       window.scrollTo(0, 0)
+      return
     }
-  }, [pathname])
+    const id = decodeURIComponent(hash.slice(1))
+    const t = window.setTimeout(() => document.getElementById(id)?.scrollIntoView({ behavior: 'smooth', block: 'start' }), 60)
+    return () => window.clearTimeout(t)
+  }, [pathname, hash])
   return null
 }
 
@@ -37,6 +42,7 @@ function AppRoutes() {
         <Route path="/seja-motorista" element={<SejaMotorista />} />
         <Route path="/seja-parceiro" element={<SejaParceiro />} />
         <Route path="/excelencia" element={<Excelencia />} />
+        <Route path="/frotas" element={<Frotas />} />
       </Routes>
       <Footer />
     </>

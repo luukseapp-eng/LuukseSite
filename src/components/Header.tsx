@@ -9,6 +9,11 @@ const nav = [
   { href: '/#academia', label: 'Academia' },
 ]
 
+const highlights = [
+  { href: '/frotas', label: 'Frotas' },
+  { href: '/seja-parceiro', label: 'Parcerias' },
+]
+
 export default function Header() {
   const [scrolled, setScrolled] = useState(false)
   const [open, setOpen] = useState(false)
@@ -30,7 +35,8 @@ export default function Header() {
     <header className={`${styles.header} ${scrolled ? styles.scrolled : ''}`}>
       <div className={`container ${styles.inner}`}>
         <Link to="/" className={styles.logo} aria-label="LUUKSE, início">
-          LUUKSE
+          <img src={`${import.meta.env.BASE_URL}brand/logo-mark.png`} alt="" className={styles.logoImg} />
+          <span>LUUKSE</span>
         </Link>
 
         <nav className={styles.desktopNav} aria-label="Principal">
@@ -38,6 +44,11 @@ export default function Header() {
             <Link key={item.href} to={item.href} className={styles.navLink}>
               {item.label}
             </Link>
+          ))}
+          {highlights.map((item) => (
+            <NavLink key={item.href} to={item.href} className={`${styles.navLink} ${styles.navGold}`}>
+              {item.label}
+            </NavLink>
           ))}
         </nav>
 
@@ -64,14 +75,16 @@ export default function Header() {
               {item.label}
             </Link>
           ))}
+          {highlights.map((item) => (
+            <NavLink key={item.href} to={item.href} className={`${styles.mobileLink} ${styles.mobileGold}`} onClick={() => setOpen(false)}>
+              {item.label}
+            </NavLink>
+          ))}
           <NavLink to="/sobre" className={styles.mobileLink} onClick={() => setOpen(false)}>
             Sobre
           </NavLink>
           <NavLink to="/seja-motorista" className={styles.mobileLink} onClick={() => setOpen(false)}>
             Seja motorista
-          </NavLink>
-          <NavLink to="/seja-parceiro" className={styles.mobileLink} onClick={() => setOpen(false)}>
-            Seja parceiro
           </NavLink>
           <Link to="/contato" className={`btn btn-primary btn-block`} onClick={() => setOpen(false)}>
             Solicitar agora

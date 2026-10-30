@@ -8,6 +8,7 @@ import Padrao from '../components/sections/Padrao'
 import Academia from '../components/sections/Academia'
 import Excelencia from '../components/sections/Excelencia'
 import Motoristas from '../components/sections/Motoristas'
+import Frotas from '../components/sections/Fleet'
 import Partner from '../components/sections/Partner'
 import Cidades from '../components/sections/Cidades'
 import CtaFinal from '../components/sections/CtaFinal'
@@ -40,6 +41,7 @@ export default function Home() {
       <Academia />
       <Excelencia />
       <Motoristas />
+      <Frotas />
       <Partner />
       <Cidades />
       <CtaFinal />
