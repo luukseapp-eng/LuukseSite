@@ -10,14 +10,15 @@ export default function Partner() {
       <div className="container">
         <div className={`${styles.panel} reveal`}>
           <div className={styles.copy}>
-            <span className="section-label">Parceiros</span>
-            <h2>Sua operação. Uma nova experiência.</h2>
+            <span className="section-label">Parcerias · Somente por convite</span>
+            <h2>Seu outdoor dentro do app mais exclusivo.</h2>
             <p>
-              Hotéis, condomínios, empresas e operações que desejam oferecer mobilidade privada sob o
-              padrão LUUKSE. Uma parceria que eleva a experiência de quem chega e de quem parte.
+              Restaurantes, hotéis e experiências premium exibem a marca na tela inicial do app LUUKSE e
+              recebem reservas de mesa de quem viaja com a gente. A entrada é por convite: envie seu
+              interesse e, se aprovado, enviamos o seu convite.
             </p>
-            <Link to="/seja-parceiro" className="btn btn-primary">
-              Seja parceiro
+            <Link to="/seja-parceiro#interesse" className="btn btn-primary">
+              Quero receber um convite
             </Link>
           </div>
           <div className={styles.aside} aria-hidden>

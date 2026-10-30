@@ -69,3 +69,37 @@
     gap: 2rem;
   }
 }
+
+.logoFull {
+  display: block;
+  width: 180px;
+  height: auto;
+  margin-bottom: 0.75rem;
+}
+
+.socials {
+  display: flex;
+  gap: 0.6rem;
+  margin-top: 1.25rem;
+}
+
+.socials a,
+.socials .soon {
+  display: grid;
+  place-items: center;
+  width: 40px;
+  height: 40px;
+  border: 1px solid var(--graphite-line);
+  color: var(--warm-muted);
+  transition: color 0.25s var(--ease), border-color 0.25s var(--ease);
+}
+
+.socials a:hover {
+  color: var(--champagne-soft);
+  border-color: rgba(201, 162, 39, 0.5);
+}
+
+.socials .soon {
+  opacity: 0.4;
+  cursor: not-allowed;
+}

@@ -24,12 +24,34 @@
 }
 
 .logo {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.7rem;
   font-family: var(--font-display);
   font-size: 1.35rem;
   font-weight: 600;
   letter-spacing: 0.28em;
   color: var(--warm-white);
   transition: color 0.3s var(--ease);
+}
+
+.logoImg {
+  height: 40px;
+  width: auto;
+  filter: drop-shadow(0 0 10px rgba(201, 162, 39, 0.35));
+}
+
+.desktopNav .navGold {
+  color: var(--champagne);
+}
+
+.desktopNav .navGold:hover,
+.desktopNav .navGold:global(.active) {
+  color: var(--champagne-soft);
+}
+
+.mobileNav .mobileGold {
+  color: var(--champagne);
 }
 
 .logo:hover {
@@ -39,7 +61,7 @@
 .desktopNav {
   display: none;
   align-items: center;
-  gap: 2rem;
+  gap: 1.6rem;
 }
 
 .navLink {

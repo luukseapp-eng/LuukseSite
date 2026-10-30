@@ -68,3 +68,64 @@
     justify-self: stretch;
   }
 }
+
+.hp {
+  position: absolute;
+  left: -9999px;
+  width: 0;
+  height: 0;
+  opacity: 0;
+  pointer-events: none;
+}
+
+.form .check {
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 0.7rem;
+  text-transform: none;
+  letter-spacing: normal;
+  font-weight: 400;
+  font-size: 0.85rem;
+  line-height: 1.5;
+}
+
+.form .check input {
+  width: auto;
+  margin-top: 0.2rem;
+  accent-color: #c9a227;
+}
+
+.form .check a {
+  color: var(--champagne-soft);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.form button:disabled {
+  opacity: 0.6;
+  cursor: wait;
+}
+
+.error {
+  color: #e8a08a;
+  font-size: 0.9rem;
+}
+
+.formWide {
+  max-width: 44rem;
+}
+
+.formGrid {
+  display: grid;
+  gap: 1.15rem;
+}
+
+@media (min-width: 720px) {
+  .formGrid {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .formGrid .full {
+    grid-column: 1 / -1;
+  }
+}

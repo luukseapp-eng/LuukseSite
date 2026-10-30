@@ -1,15 +1,10 @@
-import { useState } from 'react'
-import type { FormEvent } from 'react'
 import PageShell from './PageShell'
 import styles from './FormPages.module.css'
+import LeadFeedback from '../components/LeadFeedback'
+import { useLeadForm } from '../lib/leads'
 
 export default function Contato() {
-  const [sent, setSent] = useState(false)
-
-  function onSubmit(e: FormEvent<HTMLFormElement>) {
-    e.preventDefault()
-    setSent(true)
-  }
+  const { status, onSubmit, sent } = useLeadForm('contato')
 
   return (
     <PageShell
@@ -17,12 +12,10 @@ export default function Contato() {
       lead="Fale com a LUUKSE. Retornamos com atenção e discrição."
     >
       {sent ? (
-        <div className={styles.success} role="status">
-          <h2>Mensagem registrada.</h2>
-          <p>Obrigado pelo contato. Nossa equipe retornará em breve.</p>
-        </div>
+        <LeadFeedback status={status} title="Mensagem registrada." text="Obrigado pelo contato. Nossa equipe retornará em breve." />
       ) : (
         <form className={styles.form} onSubmit={onSubmit}>
+<input name="website" className={styles.hp} type="text" tabIndex={-1} autoComplete="off" aria-hidden="true" />
           <label>
             Nome
             <input name="nome" type="text" required autoComplete="name" />
@@ -52,9 +45,14 @@ export default function Contato() {
             Mensagem
             <textarea name="mensagem" rows={5} required />
           </label>
-          <button type="submit" className="btn btn-primary">
+          <button type="submit" className="btn btn-primary" disabled={status === 'sending'}>
             Enviar mensagem
           </button>
+          {status === 'error' && (
+            <p className={styles.error} role="alert">
+              Não foi possível enviar agora. Tente novamente ou escreva para contato@luukseapp.com.
+            </p>
+          )}
         </form>
       )}
     </PageShell>
