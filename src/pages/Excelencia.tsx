@@ -28,20 +28,20 @@ const categorias = [
 const ciclos = [
   {
     label: 'Trimestral',
-    title: 'Quatro fechamentos por ano',
-    text: 'Janeiro a março, abril a junho, julho a setembro e outubro a dezembro. No fechamento, os vencedores das cinco categorias recebem o Selo de Excelência e a premiação do trimestre.',
+    title: 'Um fechamento a cada três meses',
+    text: 'Os ciclos de três meses são contados a partir da data de início das operações da LUUKSE, e não por trimestre de calendário. Por exemplo, se o início for em 17/08, os fechamentos serão em 17/11, 17/02, 17/05 e assim por diante. No fechamento de cada ciclo, os vencedores das cinco categorias recebem o Selo de Excelência e a premiação do ciclo.',
   },
   {
     label: 'Anual',
     title: 'Motoristas do Ano LUUKSE',
-    text: 'De 1º de janeiro a 31 de dezembro. Os três primeiros colocados do ranking anual recebem o título, o troféu e a premiação do ano.',
+    text: 'Doze meses contados da data de início das operações. No fechamento do ciclo anual, os três primeiros colocados do ranking anual recebem o título, o troféu e a premiação do ano.',
   },
 ]
 
 const transparencia = [
   {
     who: 'O motorista',
-    text: 'Vê a própria posição no trimestre, seus indicadores, os padrões que cumpre, os selos, as conquistas e o valor final aprovado.',
+    text: 'Vê a própria posição no ciclo trimestral em curso, seus indicadores, os padrões que cumpre, os selos, as conquistas e o valor final aprovado.',
   },
   {
     who: 'O cliente',
@@ -106,7 +106,7 @@ export default function Excelencia() {
                 A participação é automática para todo motorista parceiro ativo, autônomo ou
                 vinculado a uma empresa de frota. Não há inscrição nem custo. Para concorrer à
                 premiação de um ciclo, é preciso estar com o cadastro ativo, ter feito o número
-                mínimo de viagens do período e não ter advertência de conduta no trimestre.
+                mínimo de viagens do período e não ter advertência de conduta no ciclo trimestral.
               </p>
             </div>
             <div className={`${styles.card} reveal reveal-delay-2`}>
@@ -127,6 +127,12 @@ export default function Excelencia() {
           <div className={`${styles.intro} reveal`}>
             <span className="section-label">Ciclos</span>
             <h2>Dois ciclos, sempre no horário de Brasília.</h2>
+            <p>
+              O Programa começa na data em que a LUUKSE inicia as operações reais, a data oficial
+              de lançamento, que será divulgada no aplicativo. Motoristas e viagens de teste,
+              anteriores a essa data, não participam. Os critérios de cada ciclo são divulgados
+              aos participantes antes do seu início.
+            </p>
           </div>
           <ul className={styles.two}>
             {ciclos.map((c, i) => (
@@ -148,7 +154,7 @@ export default function Excelencia() {
         <div className="container">
           <div className={`${styles.intro} reveal`}>
             <span className="section-label">Categorias</span>
-            <h2>Cinco categorias a cada trimestre.</h2>
+            <h2>Cinco categorias a cada ciclo trimestral.</h2>
             <p>
               Todas apuradas automaticamente com as viagens do período. Em caso de empate, critérios
               sucessivos decidem e, se persistir, todos os empatados vencem e dividem a premiação
@@ -178,7 +184,7 @@ export default function Excelencia() {
               <div className={styles.mark} aria-hidden />
               <h3>Selo de Excelência</h3>
               <p>
-                Cada vencedor de categoria recebe o selo no fechamento do trimestre. Ele fica
+                Cada vencedor de categoria recebe o selo no fechamento do ciclo trimestral. Ele fica
                 visível no perfil do motorista, inclusive para os clientes, por 30 dias. Depois, a
                 conquista permanece registrada no histórico do motorista.
               </p>
@@ -208,7 +214,7 @@ export default function Excelencia() {
             <span className="section-label">Motoristas do Ano</span>
             <h2>Os três melhores do ano são homenageados.</h2>
             <p>
-              Ao fim de cada ciclo de 12 meses, os três primeiros colocados do ranking anual
+              Ao fim de cada ciclo anual de 12 meses, contados da data de início das operações, os três primeiros colocados do ranking anual
               tornam-se Motoristas do Ano LUUKSE. Eles recebem um troféu físico, a premiação anual
               e podem ser homenageados em cerimônia. O título fica registrado no perfil e no
               histórico do motorista e pode ser exibido aos clientes.
@@ -225,9 +231,9 @@ export default function Excelencia() {
             <p>
               O motorista que receber advertência por mau comportamento (por exemplo, falta de
               cortesia, uso do celular ao volante, direção imprudente, cobrança indevida ou
-              discriminação) fica fora da premiação do trimestre em que a conduta ocorreu. Ele não
-              perde pontos e volta a concorrer no trimestre seguinte. Com duas ou mais advertências
-              no ano, fica fora também de Motoristas do Ano.
+              discriminação) fica fora da premiação do ciclo trimestral em que a conduta ocorreu. Ele não
+              perde pontos e volta a concorrer no ciclo seguinte. Com duas ou mais advertências
+              no ciclo anual, fica fora também de Motoristas do Ano.
             </p>
             <p>
               O motorista é avisado, vê o motivo e pode contestar uma vez, pelo aplicativo. A
