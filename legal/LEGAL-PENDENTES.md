@@ -8,8 +8,8 @@ Regerar (pandoc, gfm -> html): remover as marcas e converter `legal/termos.md` e
 
 Versão 7.7 (30/10/2026, rascunho local, não publicado): verificação de identidade e antecedentes do motorista na Política
 (Seções 3.1, 3.2, 3.3, 3.6, 4.2, 5.5, 6.1, 7.7, 9.3) e nos Termos (7A.4.6); resolvidos 7B.8.1(e), 7B.12(d), Anexo A.7 e
-o critério de "divulgação de especial gravidade" (7A.12.6). A Ângela precisa revisar antes de publicar. Marcas que continuam abertas:
-- Cláusulas 6.7 e 6.8 (fiscal): modelo de intermediação confirmado pela Ângela em 30/10/2026 (marca removida). A contadora ainda deve confirmar o modelo, o código 10.02 e a retenção de pessoa física quando paga empresa; pode haver ajuste depois.
+o critério de "divulgação de especial gravidade" (7A.12.6). A Angel precisa revisar antes de publicar. Marcas que continuam abertas:
+- Cláusulas 6.7 e 6.8 (fiscal): modelo de intermediação confirmado pela Angel em 30/10/2026 (marca removida). A contadora ainda deve confirmar o modelo, o código 10.02 e a retenção de pessoa física quando paga empresa; pode haver ajuste depois.
 - [A CONFIRMAR COM O TIME TÉCNICO / HELENA] Política, Seção 9.3: prazos de eliminação das certidões enviadas, da sessão no Didit
   e de guarda das declarações com IP (30 dias / 30 dias / 5 anos sugeridos).
 - Antes de ativar a verificação: RIPD concluído, contrato (DPA) e salvaguarda do art. 33 com o Didit documentados e teste de legítimo interesse (LIA).
