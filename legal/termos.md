@@ -7,7 +7,7 @@
 | Versão | Data | Principais mudanças |
 | :---- | :---- | :---- |
 | 1.0–3.0 | 2026 | Versões preliminares, em documento único de Termos de Uso e Política de Privacidade, com as regras gerais de uso da Plataforma, cadastro, viagens, pagamentos e tratamento de dados, antes da separação dos documentos na versão 5.0. |
-| 4.0 / 4.1 | 22/10/2026 | Asaas como gateway; divisão 65% \+ 3%; regra de cancelamento de 2 minutos; regras para motoristas. |
+| 4.0 / 4.1 | 22/10/2026 | Asaas como gateway; divisão do valor da viagem entre motorista e LUUKSE; regra de cancelamento de 2 minutos; regras para motoristas. |
 | 5.0–5.2 | 22/10/2026 | Termos separados da Política de Privacidade; fórmula de preços com exemplos; responsabilidades conforme CDC e Lei 12.587; decisões automatizadas; planos, notas fiscais e Asaas detalhados. 5.1: área BH e Região Metropolitana; seguro APP obrigatório; menores só acompanhados; espera de 5 min; agendadas com 2 h. 5.2: exemplo com cartão; taxa de cancelamento explicada; tarifas do motorista reescritas; modelo de notas fiscais provisório; chargeback com contestação prévia; arrependimento proporcional; canal de revisão humana. |
 | 6.0 | 22/10/2026 | Revisão final: texto do seguro obrigatório corrigido (DPVAT e SPVAT); referências cruzadas; regras de agendamento objetivas; pendências restritas a decisões da LUUKSE, da contabilidade e de fornecedores, cada uma com texto padrão seguro. |
 | 6.1 | 22/10/2026 | Sem antecipação ao motorista; troca de plano imediata com cobrança proporcional; seguro próprio em cotação. |
@@ -92,14 +92,14 @@
 
 | Tarifa do Asaas | Quando ocorre | Quem paga |
 | :---- | :---- | :---- |
-| Tarifa da cobrança (Pix ou cartão) | Em toda viagem paga | É descontada do preço cheio **antes** de calcular os 68% do motorista (cláusula 6.5). Só por consequência dessa fórmula, ela acaba suportada na proporção de 68% pelo motorista e 32% pela LUUKSE. Exemplo: viagem de R\$ 100,00 por Pix com tarifa ilustrativa de R\$ 0,99 (a tarifa vigente é a da tabela do Asaas, https\://www\.asaas.com/precos-e-taxas, que pode ser alterada pelo Asaas): R\$ 100,00 − R\$ 0,99 \= R\$ 99,01; 68% de R\$ 99,01 \= R\$ 67,32 para o motorista (sem a tarifa, seriam R\$ 68,00, então o motorista suporta R\$ 0,68); a LUUKSE fica com R\$ 31,69 (sem a tarifa, R\$ 32,00, então suporta R\$ 0,31). R\$ 0,68 \+ R\$ 0,31 \= R\$ 0,99 |
+| Tarifa da cobrança (Pix ou cartão) | Em toda viagem paga | É descontada do preço cheio **antes** de calcular a parcela do motorista (cláusula 6.5), de modo que acaba suportada por motorista e LUUKSE na proporção da divisão vigente. Exemplo: viagem de R\$ 100,00 por Pix com tarifa ilustrativa de R\$ 0,99 (a tarifa vigente é a da tabela do Asaas, https\://www\.asaas.com/precos-e-taxas, que pode ser alterada pelo Asaas): o valor líquido de referência é R\$ 100,00 − R\$ 0,99 \= R\$ 99,01, e a parcela do motorista conforme a política de repasse vigente da LUUKSE, que pode ser alterada, é calculada sobre esse valor líquido. [A CONFIRMAR COM HELENA: confirmar se o exemplo da tarifa pode ficar sem os valores em reais da parcela do motorista.] |
 | Abertura e manutenção da subconta | Cadastro do motorista | Ninguém cobra do motorista; se houver custo, é da LUUKSE |
-| Recebimento da parte do motorista na subconta | Em toda viagem | Sem tarifa para o motorista |
+| Recebimento da parcela do motorista na subconta | Em toda viagem | Sem tarifa para o motorista |
 | Transferência (saque) da subconta para a conta bancária do motorista | Quando o motorista saca | **Motorista**, pelo valor da tabela do Asaas, exceto as transferências gratuitas que o Asaas oferece por mês |
 | Antecipação de valores de cartão | Só se o motorista pedir | A LUUKSE **não oferece antecipação** de valores ao motorista. |
 | Tarifa de estorno ou chargeback | Quando ocorrer | Conforme a cláusula 6.11 |
 
-A tabela de tarifas do Asaas está em https\://www\.asaas.com/precos-e-taxas. **Antes de concluir o cadastro e em cada viagem, o aplicativo do motorista mostra a decomposição**: valor da viagem, tarifa do Asaas, parte do motorista e parte da LUUKSE. Reajustes de tarifas do Asaas valem só para operações posteriores e são avisados no app do motorista. A LUUKSE não define nem recebe as tarifas do Asaas.
+A tabela de tarifas do Asaas está em https\://www\.asaas.com/precos-e-taxas. **Antes de concluir o cadastro e em cada viagem, o aplicativo do motorista mostra a decomposição**: valor da viagem, tarifa do Asaas, parcela do motorista e parcela da LUUKSE. Reajustes de tarifas do Asaas valem só para operações posteriores e são avisados no app do motorista. A LUUKSE não define nem recebe as tarifas do Asaas.
 
 **Tarifa de referência.** Para fins de cálculo da parcela do motorista, utiliza-se a tarifa de referência calculada sobre o preço cheio, ainda que a tarifa efetivamente cobrada pelo Asaas seja calculada sobre valor menor em razão de descontos. A diferença entre a tarifa de referência e a tarifa efetivamente cobrada integra o resultado da LUUKSE (Tabela 6.5-B). As tarifas utilizadas nos exemplos destes Termos são ilustrativas; a tarifa vigente é a da tabela do Asaas (https\://www\.asaas.com/precos-e-taxas), que pode ser alterada pelo Asaas.
 
@@ -108,36 +108,36 @@ A tabela de tarifas do Asaas está em https\://www\.asaas.com/precos-e-taxas. **
 1. **Preço cheio (bruto):** preço da viagem pela tarifa da modalidade PASS.  
 2. **Tarifa do Asaas** sobre a cobrança.  
 3. **Valor líquido de referência** = preço cheio − tarifa do Asaas.  
-4. **Motorista:** 68% do valor líquido de referência (65% pela viagem \+ 3% de **Adicional Padrão LUUKSE**).  
+4. **Motorista:** parcela do motorista conforme a política de repasse vigente da LUUKSE, que pode ser alterada, calculada sobre o valor líquido de referência (e inclui o **Adicional Padrão LUUKSE**, cláusula 6.6).  
 5. **Descontos:** plano pago (10% do preço cheio) e cupons. Saem **da parte da LUUKSE**, não da parte do motorista.  
 6. **Valor cobrado do cliente** = preço cheio − descontos.  
 7. **LUUKSE** = valor cobrado do cliente − tarifa do Asaas − parte do motorista.
 
-**Arredondamento:** a parte do motorista é arredondada para baixo no centavo, e a diferença de centavos fica com a LUUKSE.
+**Arredondamento:** a parcela do motorista é arredondada para baixo no centavo, e a diferença de centavos fica com a LUUKSE.
 
 **Tabela 6.5-A — Exemplo de viagem de R\$ 100,00 paga por Pix (tarifa ilustrativa de R\$ 0,99; a tarifa vigente é a da tabela do Asaas (https\://www\.asaas.com/precos-e-taxas), que pode ser alterada pelo Asaas)**
 
-| Modalidade | Cliente paga | Tarifa Asaas | Motorista (68% de R\$ 99,01) | LUUKSE |
-| :---- | :---- | :---- | :---- | :---- |
-| PASS | R\$ 100,00 | R\$ 0,99 | R\$ 67,32 | R\$ 31,69 |
-| Plano pago (−10%) | R\$ 90,00 | R\$ 0,99 | R\$ 67,32 | R\$ 21,69 |
-| PASS com cupom de R\$ 15,00 | R\$ 85,00 | R\$ 0,99 | R\$ 67,32 | R\$ 16,69 |
-| Plano pago (−10%) com cupom de R\$ 15,00 | R\$ 75,00 | R\$ 0,99 | R\$ 67,32 | R\$ 6,69 |
+| Modalidade | Cliente paga | Tarifa Asaas | Valor líquido de referência | Parcela do motorista | LUUKSE |
+| :---- | :---- | :---- | :---- | :---- | :---- |
+| PASS | R\$ 100,00 | R\$ 0,99 | R\$ 99,01 | Conforme a política de repasse vigente | Valor pago pelo cliente − tarifa − parcela do motorista |
+| Plano pago (−10%) | R\$ 90,00 | R\$ 0,99 | R\$ 99,01 | A mesma da linha PASS | Idem |
+| PASS com cupom de R\$ 15,00 | R\$ 85,00 | R\$ 0,99 | R\$ 99,01 | A mesma da linha PASS | Idem |
+| Plano pago (−10%) com cupom de R\$ 15,00 | R\$ 75,00 | R\$ 0,99 | R\$ 99,01 | A mesma da linha PASS | Idem |
 
-**Memória de cálculo (Tabela 6.5-A):** preço cheio R\$ 100,00 − tarifa R\$ 0,99 \= valor líquido de referência R\$ 99,01; motorista \= 68% × R\$ 99,01 \= R\$ 67,32 (arredondado para baixo). LUUKSE \= valor pago pelo cliente − R\$ 0,99 − R\$ 67,32. Exemplos: PASS: R\$ 100,00 − R\$ 0,99 − R\$ 67,32 \= R\$ 31,69; plano pago: R\$ 90,00 − R\$ 0,99 − R\$ 67,32 \= R\$ 21,69; PASS com cupom: R\$ 85,00 − R\$ 0,99 − R\$ 67,32 \= R\$ 16,69; plano pago com cupom: R\$ 75,00 − R\$ 0,99 − R\$ 67,32 \= R\$ 6,69. Nos exemplos, a tarifa do Pix é fixa e não varia com o valor pago. Trata-se de tarifa ilustrativa de R\$ 0,99; a tarifa vigente é a da tabela do Asaas (https\://www\.asaas.com/precos-e-taxas), que pode ser alterada pelo Asaas.
+**Memória de cálculo (Tabela 6.5-A):** preço cheio R\$ 100,00 − tarifa R\$ 0,99 \= valor líquido de referência R\$ 99,01. A parcela do motorista é calculada sobre esse valor, conforme a política de repasse vigente da LUUKSE, que pode ser alterada, e arredondada para baixo no centavo. Ela é a mesma em todas as linhas, porque os descontos do plano e do cupom saem da parte da LUUKSE. A LUUKSE fica com o valor pago pelo cliente (R\$ 100,00, R\$ 90,00, R\$ 85,00 ou R\$ 75,00), menos a tarifa de R\$ 0,99, menos a parcela do motorista. Nos exemplos, a tarifa do Pix é fixa e não varia com o valor pago. Trata-se de tarifa ilustrativa de R\$ 0,99; a tarifa vigente é a da tabela do Asaas (https\://www\.asaas.com/precos-e-taxas), que pode ser alterada pelo Asaas. [A CONFIRMAR COM HELENA: se a LUUKSE quiser mostrar um exemplo numérico completo, usar valores genéricos e não a divisão vigente.]
 
 **Tabela 6.5-B — Exemplo de viagem de R\$ 100,00 paga com cartão de crédito**, com tarifa ilustrativa do Asaas de 2,99% \+ R\$ 0,49 por cobrança (tarifa ilustrativa; a tarifa vigente é a da tabela do Asaas (https\://www\.asaas.com/precos-e-taxas), que pode ser alterada pelo Asaas):
 
-| Modalidade | Cliente paga | Tarifa Asaas | Valor líquido de referência | Motorista (68%) | LUUKSE |
+| Modalidade | Cliente paga | Tarifa Asaas | Valor líquido de referência | Parcela do motorista | LUUKSE |
 | :---- | :---- | :---- | :---- | :---- | :---- |
-| PASS | R\$ 100,00 | R\$ 3,48 | R\$ 96,52 | R\$ 65,63 | R\$ 30,89 |
-| Plano pago (−10%) | R\$ 90,00 | R\$ 3,18 | R\$ 96,52 (calculado sobre o preço cheio) | R\$ 65,63 | R\$ 21,19 |
+| PASS | R\$ 100,00 | R\$ 3,48 | R\$ 96,52 | Conforme a política de repasse vigente | Valor pago pelo cliente − tarifa − parcela do motorista |
+| Plano pago (−10%) | R\$ 90,00 | R\$ 3,18 | R\$ 96,52 (calculado sobre o preço cheio) | A mesma da linha PASS | Idem |
 
-**Memória de cálculo (Tabela 6.5-B):** tarifa ilustrativa de referência sobre o preço cheio \= 2,99% × R\$ 100,00 \+ R\$ 0,49 \= R\$ 3,48; valor líquido de referência \= R\$ 100,00 − R\$ 3,48 \= R\$ 96,52; motorista \= 68% × R\$ 96,52 \= R\$ 65,63 (arredondado para baixo). PASS: LUUKSE \= R\$ 100,00 − R\$ 3,48 − R\$ 65,63 \= R\$ 30,89. Plano pago: tarifa real \= 2,99% × R\$ 90,00 \+ R\$ 0,49 \= R\$ 3,18; LUUKSE \= R\$ 90,00 − R\$ 3,18 − R\$ 65,63 \= R\$ 21,19.
+**Memória de cálculo (Tabela 6.5-B):** tarifa ilustrativa de referência sobre o preço cheio \= 2,99% × R\$ 100,00 \+ R\$ 0,49 \= R\$ 3,48; valor líquido de referência \= R\$ 100,00 − R\$ 3,48 \= R\$ 96,52. A parcela do motorista é calculada sobre esse valor, conforme a política de repasse vigente da LUUKSE, que pode ser alterada (arredondada para baixo). No plano pago, a tarifa real \= 2,99% × R\$ 90,00 \+ R\$ 0,49 \= R\$ 3,18, e a LUUKSE fica com R\$ 90,00 − R\$ 3,18 − parcela do motorista.
 
-No cartão, a tarifa do Asaas é percentual e é cobrada sobre o valor efetivamente pago; por isso, no plano pago a tarifa real é menor. A parte do motorista é sempre calculada sobre o valor líquido de referência do preço cheio, de modo que ele recebe o mesmo valor com ou sem plano. Se a soma de descontos fizer a parte da LUUKSE ficar negativa, a LUUKSE cobre a diferença; o motorista não é afetado.
+No cartão, a tarifa do Asaas é percentual e é cobrada sobre o valor efetivamente pago; por isso, no plano pago a tarifa real é menor. A parcela do motorista é sempre calculada sobre o valor líquido de referência do preço cheio, de modo que ele recebe o mesmo valor com ou sem plano. Se a soma de descontos fizer a parte da LUUKSE ficar negativa, a LUUKSE cobre a diferença; o motorista não é afetado.
 
-6.6. **Adicional Padrão LUUKSE (3%).** É parte da remuneração do motorista pela viagem, destinada ao cuidado com o veículo (limpeza e conservação). É paga integralmente ao motorista em todas as viagens, com ou sem plano, e não é uma taxa cobrada à parte do cliente.
+6.6. **Adicional Padrão LUUKSE.** É parte da remuneração do motorista pela viagem, destinada ao cuidado com o veículo (limpeza e conservação), e está incluída na parcela do motorista conforme a política de repasse vigente da LUUKSE, que pode ser alterada. É paga integralmente ao motorista em todas as viagens, com ou sem plano, e não é uma taxa cobrada à parte do cliente.
 
 6.7. **Natureza dos valores.** A LUUKSE atua como **intermediadora**, em nome e por conta de terceiros: o transporte é prestado pelo motorista ao cliente, e a LUUKSE recebe e repassa o pagamento. Enquanto atuar dessa forma, a receita da LUUKSE é **somente a comissão de intermediação** (a parte LUUKSE da cláusula 6.5, inclusive sobre as taxas de cancelamento e de cliente ausente) **e as mensalidades dos planos**. O valor total da viagem é controlado como **recurso de terceiros**: a parte do motorista é receita dele, repassada à subconta dele pelo split, e a tarifa do Asaas é receita do Asaas. A LUUKSE registra separadamente, para cada operação, o preço cheio, o desconto concedido pela LUUKSE, a tarifa do Asaas, o repasse ao motorista, a comissão de intermediação, os reembolsos e os chargebacks. Para fins de faturamento e escrituração da LUUKSE, a base da NFS-e da intermediação corresponde exclusivamente ao valor da comissão efetivamente pertencente à LUUKSE, incluindo a parcela da LUUKSE nas taxas de cancelamento e de cliente ausente, sem incluir valores pertencentes ao motorista, à frota ou ao prestador do transporte, nem valores apenas transitados por conta e ordem de terceiros, desde que essa segregação seja comprovada pelos contratos, registros de split, extratos, conciliações e demais documentos da operação.
 
