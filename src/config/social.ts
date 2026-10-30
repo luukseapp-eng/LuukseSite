@@ -9,7 +9,7 @@ export const SOCIAL = {
   instagram: 'https://www.instagram.com/luukseapp',
   facebook: 'https://www.facebook.com/share/1CjQoamQJf/',
   x: 'https://x.com/Luukseapp',
-  whatsapp: '',
+  whatsapp: 'https://wa.me/553131814630',
 } as const
 
 // Dados reais já publicados na Política de Privacidade.
