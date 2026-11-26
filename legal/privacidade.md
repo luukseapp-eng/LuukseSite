@@ -28,7 +28,7 @@ Como a LUUKSE trata dados pessoais com respeito, segurança e transparência.
 
 2.1. Controladora: LUUKSE INOVA SIMPLES (I.S.), dados acima.
 
-2.2. **Encarregado (DPO):** **Ítala Angelina Santos do Rosario**, indicada pela LUUKSE como encarregada, nos termos do art. 41 da LGPD e da Resolução CD/ANPD nº 18/2024. Canal exclusivo para assuntos de dados pessoais: **privacidade@luukseapp.com**.
+2.2. **Encarregado(a) pelo tratamento de dados pessoais:** contato pelo e-mail **privacidade@luukseapp.com**, nos termos do art. 41 da LGPD e da Resolução CD/ANPD nº 18/2024.
 
 ## 3. Dados que tratamos
 
@@ -308,7 +308,7 @@ Os pedidos são gratuitos.
 LUUKSE INOVA SIMPLES (I.S.) — CNPJ 69.693.114/0001-60  
 Rua Rio Grande do Norte, 1436, sala 813, Savassi, Belo Horizonte/MG, CEP 30130-138  
 Telefone: (31) 3181-4630  
-Encarregado (DPO): **Ítala Angelina Santos do Rosario** — **privacidade@luukseapp.com**  
+Encarregado(a) pelo tratamento de dados pessoais: contato pelo e-mail **privacidade@luukseapp.com**  
 Site: **luukseapp.com**
 
 Última atualização: 30 de outubro de 2026 (versão 7.7).
