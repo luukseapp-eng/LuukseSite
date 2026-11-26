@@ -479,7 +479,7 @@ Nenhum bloqueio definitivo de conta, desligamento de motorista, recusa definitiv
 
 ## 14\. Contato
 
-LUUKSE INOVA SIMPLES (I.S.) — CNPJ 69.693.114/0001-60 Rua Rio Grande do Norte, 1436, sala 813, Savassi, Belo Horizonte/MG, CEP 30130-138 Telefone: (31) 3181-4630 — E-mail: **contato@luukseapp.com** — Site: **luukseapp.com** Encarregada (DPO): **Ítala Angelina Santos do Rosario** — **privacidade@luukseapp.com**
+LUUKSE INOVA SIMPLES (I.S.) — CNPJ 69.693.114/0001-60 Rua Rio Grande do Norte, 1436, sala 813, Savassi, Belo Horizonte/MG, CEP 30130-138 Telefone: (31) 3181-4630 — E-mail: **contato@luukseapp.com** — Site: **luukseapp.com** Encarregado(a) pelo tratamento de dados pessoais: contato pelo e-mail **privacidade@luukseapp.com**
 
 ---
 
