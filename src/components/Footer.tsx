@@ -1,6 +1,7 @@
 import { Link } from 'react-router-dom'
 import styles from './Footer.module.css'
 import { CONTACT, SOCIAL } from '../config/social'
+import AsaasSeal from './AsaasSeal'
 import type { ReactNode } from 'react'
 
 const icon = (d: ReactNode) => (
@@ -98,6 +99,7 @@ export default function Footer() {
       </div>
 
       <div className={`container ${styles.bottom}`}>
+        <AsaasSeal />
         <p>© {year} LUUKSE. Todos os direitos reservados.</p>
       </div>
     </footer>
