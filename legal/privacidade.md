@@ -4,7 +4,7 @@
 
 Como a LUUKSE trata dados pessoais com respeito, segurança e transparência.
 
-**Versão 7.7 — Data: 30/10/2026 — Vigência: a partir da publicação na Plataforma**
+**Versão 7.8 — Data: 28/11/2026 — Vigência: a partir da publicação na Plataforma**
 
 **Histórico de versões**
 
@@ -15,6 +15,7 @@ Como a LUUKSE trata dados pessoais com respeito, segurança e transparência.
 | 7.5 | 30/10/2026 | Sigilo dos motoristas e das frotas sobre dados do cliente (Seção 11.3). |
 | 7.6 | 30/10/2026 | Revisão jurídica: bases legais vinculadas a cada finalidade e ao tipo de dado, sem legítimo interesse para dados sensíveis e com biometria no art. 11 da LGPD (Seção 4); prazos de guarda por categoria, sem prazo geral de cinco anos (Seção 9); Programa Excelência com ciclos contados da data de início das operações reais (Termos, cláusula 7B.4); exceção de segurança no sigilo do cliente (Seção 11.3). |
 | 7.7 | 30/10/2026 | Verificação de identidade e antecedentes do motorista no cadastro: certidões enviadas pelo motorista, consulta de mandados de prisão no CNJ (BNMP) e consulta na Polícia Federal, biometria facial como dado sensível (art. 11 da LGPD), Didit como operador (empresa dos EUA, com processamento na Irlanda) e transferência internacional pelas cláusulas-padrão da ANPD (art. 33), guarda do aceite das declarações (IP e aparelho por 24 meses), aprovação automatizada quando tudo estiver favorável, análise humana de qualquer pendência, bloqueio ou suspensão e pedido de revisão do motorista (art. 20); texto simplificado e prazos de guarda fixados (Seções 3.1, 3.2, 3.3, 3.6, 4.2, 5.5, 6.1, 7.7 e 9.3). |
+| 7.8 | 28/11/2026 | Pagamentos e dados de cartão processados pelo Asaas, instituição de pagamento; a LUUKSE não guarda o número completo do cartão, o CVV nem a trilha, apenas um token, a bandeira, a validade e os últimos dígitos; os dados do cartão do gestor ficam ligados ao plano só para a cobrança das viagens dos membros e só enquanto ele for gestor (Seções 3.1 e 5.3). |
 
 ## 1. Apresentação
 
@@ -43,7 +44,7 @@ Como a LUUKSE trata dados pessoais com respeito, segurança e transparência.
   - **Localização aproximada:** antes do aceite, o motorista vê apenas o local aproximado de embarque do cliente (Seção 5.1).
   - **Localização em segundo plano:** os aplicativos LUUKSE **não coletam localização em segundo plano** (com o aplicativo fechado ou fora da tela). Se essa função vier a ser adotada, será solicitada permissão específica, com aviso prévio e atualização desta Política.
   - **Cliente:** o endereço de embarque e o destino são informados pelo cliente na solicitação da viagem. A localização do aparelho do cliente só é usada se ele a autorizar, apenas durante o uso do aplicativo, para sugerir o local de embarque.
-- **Pagamentos:** identificador da transação, valores, tarifas, descontos, status, estornos, chargebacks, dados de faturamento, documentos fiscais e repasses. **A LUUKSE não armazena o número completo do cartão**, apenas um token do Asaas e os últimos dígitos.
+- **Pagamentos:** identificador da transação, valores, tarifas, descontos, status, estornos, chargebacks, dados de faturamento, documentos fiscais e repasses. Os dados de pagamento e de cartão são processados pelo **Asaas**, instituição de pagamento. **A LUUKSE não armazena o número completo do cartão**, o código de segurança (CVV) nem a trilha; guarda apenas um token do Asaas, a bandeira, a validade e os últimos dígitos, para identificação. Quando o gestor do plano Enterprise (Corporativo) ativa o cartão do plano com um cartão dele, esses dados ficam vinculados ao plano **somente para a cobrança das viagens dos membros e somente enquanto ele for gestor**; se deixar de ser gestor ou sair do plano, o cartão deixa de ser usado para esse fim (Termos de Uso, cláusula 6A.9).
 - **Conversas com a Luxia e com o atendimento.**
 - **Dados técnicos:** IP, data e hora de acesso, identificadores do dispositivo, sistema operacional, cookies.
 - **Preferências** de viagem e de comunicação.
@@ -163,7 +164,7 @@ Como a LUUKSE trata dados pessoais com respeito, segurança e transparência.
 
 5.2. **O que o cliente vê:** nome e foto do motorista, nota, modelo, cor e placa do veículo e a localização do motorista do aceite até o fim da viagem.
 
-5.3. **Asaas:** dados necessários para Pix e cartão, criação das subcontas dos motoristas (incluindo dados bancários e de identificação), split, repasses e prevenção a fraudes. O Asaas atua como **controlador** dos dados que trata para cumprir a regulação do Banco Central (por exemplo, conheça seu cliente e prevenção à lavagem de dinheiro) e segue a própria política de privacidade.
+5.3. **Asaas:** dados necessários para Pix e cartão, criação das subcontas dos motoristas e das frotas e da subconta operacional (incluindo dados bancários e de identificação), tokenização de cartão, split, repasses, cobrança do cartão do plano e prevenção a fraudes. O Asaas atua como **controlador** dos dados que trata para cumprir a regulação do Banco Central (por exemplo, conheça seu cliente e prevenção à lavagem de dinheiro) e segue a própria política de privacidade. A LUUKSE não recebe nem armazena o número completo do cartão (Seção 3.1).
 
 5.4. **Empresas parceiras de frota:** a frota é dona ou gestora de veículos e mantém relação própria com os seus motoristas. Na Plataforma, ela só aceita viagens para os seus veículos e motoristas e recebe os pagamentos da sua parte. A frota **não faz nenhuma tarefa em nome da LUUKSE**: a aprovação de motoristas (documentos, antecedentes e biometria) e todo o funcionamento do app são feitos pela LUUKSE. A frota recebe apenas dados dos seus motoristas e das viagens deles (desempenho, viagens, valor da frota) e as informações operacionais estritamente necessárias para gerir a frota (por exemplo, se o motorista está liberado, suspenso cautelarmente ou com documento pendente), sem dados de pagamento de clientes e **nunca** o conteúdo de certidões de antecedentes. O acesso da frota a essas informações é restrito a pessoas autorizadas, registrado e limitado ao tempo necessário. Na relação com os seus motoristas, a frota é controladora independente desses dados e responde por esse uso.
 
@@ -311,4 +312,4 @@ Telefone: (31) 3181-4630
 Encarregado(a) pelo tratamento de dados pessoais: contato pelo e-mail **privacidade@luukseapp.com**  
 Site: **luukseapp.com**
 
-Última atualização: 30 de outubro de 2026 (versão 7.7).
+Última atualização: 28 de novembro de 2026 (versão 7.8).
